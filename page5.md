@@ -29,3 +29,43 @@ END OF COMMENTS -->
 </ul>
    </div>
   </div>
+
+
+
+
+<div class="row">
+    <div class="col-sm-5">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Moscow_July_2011-16.jpg" style="width:100%" />
+    </div>
+    <div class="col-sm-7" style="padding:5px;" >
+    <p> Red Square....</p>
+<p>Facts about Russia:</p>
+<ul>
+    <li>Population: (2020)</li>
+    <li>Capital: </li>
+    <li>Name: </li>
+    <li>Language: </li>
+    <li>Currency: </li>       
+</ul>
+   </div>
+  </div>
+  
+  
+  
+  
+  <div class="row">
+    <div class="col-sm-5">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Moscow_July_2011-16.jpg" style="width:100%" />
+    </div>
+    <div class="col-sm-7" style="padding:5px;" >
+    <p> Red Square....</p>
+<p>Facts about Russia:</p>
+<ul>
+    <li>Population: (2020)</li>
+    <li>Capital: </li>
+    <li>Name: </li>
+    <li>Language: </li>
+    <li>Currency: </li>       
+</ul>
+   </div>
+  </div>
