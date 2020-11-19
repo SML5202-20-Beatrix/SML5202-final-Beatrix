@@ -8,10 +8,10 @@
           <p>A = A like in f<strong>a</strong>r</p>
         </div>
     </div>
-  
-  <p>
+  </div>
+ 
   <audio controls>
   <source src="Phonetics A.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
-</p>
+
