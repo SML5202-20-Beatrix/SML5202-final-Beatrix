@@ -1,9 +1,5 @@
 <h1>Phonetics</h1>
 <p>Some content</p>
-<audio controls>
-  <source src="Phonetics A.mp3" type="audio/mpeg">
-  Your browser does not support the audio tag.
-</audio>
 
 <div class="row">
     <div class="col-sm-5">
@@ -13,3 +9,8 @@
         </div>
     </div>
   
+  
+  <audio controls>
+  <source src="Phonetics A.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
