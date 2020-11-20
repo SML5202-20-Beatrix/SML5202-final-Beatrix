@@ -1,5 +1,10 @@
 <h1>Phonetics</h1>
-<p>Some content</p>
+
+<p>  </p>
+<p>  </p>
+<p>  </p>
+
+<p><strong>Vowels</strong></p>
 
 <div class="row">
     <div class="col-sm-5">
