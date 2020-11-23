@@ -2,6 +2,13 @@
 <p>write your content in this file as you would normally</p>
 
 
+<p></p>
+
+<iframe width="420" height="345" src="https://www.youtube.com/watch?v=mORJmK1Ljgk">
+</iframe>
+
+<p></p>
+
 <h1>Image and Text</h1>
 <p>The example on this page shows image and text arranged in two columns</p>
 
