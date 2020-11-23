@@ -25,12 +25,6 @@
 <td style="width: 67px; height: 20px;">- я</td>
 <td style="width: 69.03125px; height: 20px;">- е</td>
 </tr>
-<tr>
-<td style="width: 68px;">&nbsp;</td>
-<td style="width: 91px;">&nbsp;</td>
-<td style="width: 67px;">&nbsp;</td>
-<td style="width: 69.03125px;">&nbsp;</td>
-</tr>
 <tr style="height: 20px;">
 <td style="width: 68px; height: 20px;">&nbsp;</td>
 <td style="width: 91px; height: 20px;">-ь</td>
