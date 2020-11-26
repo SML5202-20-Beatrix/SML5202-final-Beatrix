@@ -25,7 +25,7 @@
 </tr>
 <tr style="height: 20px;">
 <td style="width: 68px; height: 20px;">&nbsp;</td>
-<td style="width: 91px; height: 20px;"> - ь</td>
+<td style="width: 91px; height: 20px;">&nbsp;- ь</td>
 <td style="width: 67px; height: 20px;"> - ь</td>
 <td style="width: 69.03125px; height: 20px;">&nbsp;</td>
 </tr>
