@@ -8,9 +8,7 @@
 <tr style="height: 48px;">
 <td style="width: 68px; height: 48px;">&nbsp;</td>
 <td style="width: 91px; height: 48px;">Masc.</td>
-<td style="width: 67px; height: 48px;">
-<p>Fem.</p>
-</td>
+<td style="width: 67px; height: 48px;">Fem.</td>
 <td style="width: 69.03125px; height: 48px;">Neut.</td>
 </tr>
 <tr style="height: 38px;">
