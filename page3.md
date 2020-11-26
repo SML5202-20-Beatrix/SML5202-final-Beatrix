@@ -3,7 +3,7 @@
 
 <p>Gender Case Endings </p>
 
-<table border=“width: 6px”; bordercolor=“color: #000000”; style="height: 182px; width: 324.03125px;">
+<table style="height: 182px; width: 324.03125px;" border="&ldquo;6px&rdquo;">
 <tbody>
 <tr style="height: 48px;">
 <td style="width: 68px; height: 48px;">&nbsp;</td>
