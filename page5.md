@@ -62,7 +62,7 @@ END OF COMMENTS -->
   
   <div class="row">
     <div class="col-sm-5">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Moscow_July_2011-16.jpg" style="width:100%" />
+      <img src="images/41460373-330B-489C-BCBA-77585ACA5E48.png" />
     </div>
     <div class="col-sm-7" style="padding:5px;" >
     <p> Red Square....</p>
