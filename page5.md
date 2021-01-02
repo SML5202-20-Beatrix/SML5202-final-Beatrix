@@ -8,7 +8,7 @@
 
 <p></p>
 
-<h2>Red Square - </h2>
+<h2>Red Square - Красная Площадь</h2>
 <p>The example on this page shows image and text arranged in two columns</p>
 
 <!-- 
@@ -38,6 +38,7 @@ END OF COMMENTS -->
 
 <p>&nbsp;</p>
 
+<h2> Pirozhki - Пирожки</h2>
 
 <div class="row">
     <div class="col-sm-5">
@@ -59,6 +60,8 @@ END OF COMMENTS -->
   
   <p>&nbsp;</p>
 
+  <h2>Lake Baikal - Озеро Байкал</h2>
+  
   
   <div class="row">
     <div class="col-sm-5">
@@ -81,7 +84,7 @@ END OF COMMENTS -->
   
   <p>&nbsp;</p>
   
-  
+  <h2>Pyotr Ilyich Tchaikovsky - Пётр Ильич Чайковский</h2>
   
   <div class="row">
     <div class="col-sm-5">
