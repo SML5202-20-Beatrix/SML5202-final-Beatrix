@@ -105,3 +105,23 @@ END OF COMMENTS -->
   
   
   <p>&nbsp;</p>
+  
+   <h2>Fyodor Dostoevsky - Фёдор Достоевский</h2>
+  
+  
+  <div class="row">
+    <div class="col-sm-5">
+      <img src="images/47C5BCA5-FB60-4D2F-8A5B-C887013350B8_4_5005_c.jpeg" />
+    </div>
+    <div class="col-sm-7" style="padding:5px;" >
+    <p> Red Square....</p>
+<p>Facts about Russia:</p>
+<ul>
+    <li>Population: (2020)</li>
+    <li>Capital: </li>
+    <li>Name: </li>
+    <li>Language: </li>
+    <li>Currency: </li>       
+</ul>
+   </div>
+  </div>
