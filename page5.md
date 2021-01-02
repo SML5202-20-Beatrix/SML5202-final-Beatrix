@@ -21,7 +21,7 @@ END OF COMMENTS -->
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/94549BFF-E251-4A92-95B9-0EA5CFF7F81A.jpeg" style="width:100%" />
+      <img src="images/A65929A3-2546-429B-8A65-418DBB1AB1C5.jpeg" style="width:100%" />
     </div>
     <div class="col-sm-7" style="padding:5px;" >
     <p> Red Square....</p>
@@ -41,7 +41,7 @@ END OF COMMENTS -->
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Moscow_July_2011-16.jpg" style="width:100%" />
+      <img src="images/A65929A3-2546-429B-8A65-418DBB1AB1C5.jpeg" style="width:100%" />
     </div>
     <div class="col-sm-7" style="padding:5px;" >
     <p> Red Square....</p>
