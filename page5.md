@@ -8,7 +8,7 @@
 
 <p></p>
 
-<h2>Lake Baikal</h2>
+<h2>Red Square - </h2>
 <p>The example on this page shows image and text arranged in two columns</p>
 
 <!-- 
