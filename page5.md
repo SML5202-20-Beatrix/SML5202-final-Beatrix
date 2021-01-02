@@ -76,3 +76,23 @@ END OF COMMENTS -->
 </ul>
    </div>
   </div>
+  
+  <div class="row">
+    <div class="col-sm-5">
+      <img src="images/03F2EE11-365F-4FE3-B01D-0E1BBC8D9AA1.jpeg" style="width:100%" />
+    </div>
+    <div class="col-sm-7" style="padding:5px;" >
+    <p> Red Square....</p>
+<p>Facts about Russia:</p>
+<ul>
+    <li>Population: (2020)</li>
+    <li>Capital: </li>
+    <li>Name: </li>
+    <li>Language: </li>
+    <li>Currency: </li>       
+</ul>
+   </div>
+  </div>
+  
+  
+  <p>&nbsp;</p>
