@@ -8,7 +8,7 @@
 
 <p></p>
 
-<h1>Image and Text</h1>
+<h2>Lake Baikal</h2>
 <p>The example on this page shows image and text arranged in two columns</p>
 
 <!-- 
