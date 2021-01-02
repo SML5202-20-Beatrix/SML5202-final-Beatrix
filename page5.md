@@ -88,7 +88,7 @@ END OF COMMENTS -->
   
   <div class="row">
     <div class="col-sm-5">
-      <img src="images/03F2EE11-365F-4FE3-B01D-0E1BBC8D9AA1.jpeg" style="width:100%" />
+      <img src="images/30B23510-5D17-4594-AE44-548D9BE22AC4.jpeg" />
     </div>
     <div class="col-sm-7" style="padding:5px;" >
     <p> Red Square....</p>
