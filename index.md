@@ -7,4 +7,4 @@
     <li> 2. I enjoy walking</li>
     <li> 3. I study French and Russian</li>
   </ul>
-  <p> Here is my favourite language learning tool: <a href="www.wordreference.com">Word Reference</a>
+  <p> Here is my favourite language learning tool: <a href="https://www.wordreference.com">Word Reference</a>
