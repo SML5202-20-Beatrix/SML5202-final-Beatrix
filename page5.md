@@ -24,9 +24,9 @@ END OF COMMENTS -->
       <img src="images/A65929A3-2546-429B-8A65-418DBB1AB1C5.jpeg" style="width:100%" />
     </div>
     <div class="col-sm-7" style="padding:5px;" >
-    <p> Lake Baikal is one of the oldest lakes in the world, ageing at least 25 million years old. This UNESCO World Heritage Site is located in South-Central Russia near the city of Irkutsk.  During the summer, after the ice from the mountains has melted, the lake is so clear that it is possible to see up to 130 feet down. The lake contains 27 islands that are mostly uninhabited and a stunning array of flora and fauna. 
+    <p> Lake Baikal is one of the oldest lakes in the world, ageing at least 25 million years old. This UNESCO World Heritage Site is located in South-Central Russia near the city of Irkutsk.  During the summer, after the ice from the mountains has melted, the lake is so clear that it is possible to see up to 130 feet down. The lake contains 27 islands that are mostly uninhabited and a stunning array of flora and fauna.</p>
 
-Fun Fact: The lake contains 20% of the world’s freshwater supply.</p>
+<p> Fun Fact: The lake contains 20% of the world’s freshwater supply.</p>
    </div>
   </div>
 
