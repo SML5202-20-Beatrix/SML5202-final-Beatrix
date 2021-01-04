@@ -70,7 +70,7 @@ END OF COMMENTS -->
   
   <p>&nbsp;</p>
   
-  <h2>Pyotr Ilyich Tchaikovsky - Пётр Ильич Чайковский</h2>
+  <h2>Pyotr Tchaikovsky - Пётр Чайковский</h2>
   
   <div class="row">
     <div class="col-sm-5">
