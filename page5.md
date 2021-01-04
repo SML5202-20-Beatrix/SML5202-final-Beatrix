@@ -44,7 +44,8 @@ END OF COMMENTS -->
 <ul>
     <li><a href=https://www.expresstorussia.com/experience-russia/traditional-russian-pies.html> Express to Russia</a></li>
     <li> <a href=https://valentinascorner.com/meat-piroshki-recipe/> Valentina's Corner</a></li>
-    <li> <a href=https://www.sweetandsavorybyshinee.com/russian-piroshki-meat-hand-pies/> Sweet and Sweet and Savoury by Shinee</a> </li>    
+    <li> <a href=https://www.sweetandsavorybyshinee.com/russian-piroshki-meat-hand-pies/> Sweet and Sweet and Savoury by Shinee</a> </li> 
+    <li><a href="https://www.wordreference.com">Word Reference</a></li>
 </ul>
    </div>
   </div>
