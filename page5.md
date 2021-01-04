@@ -39,14 +39,12 @@ END OF COMMENTS -->
       <img src="images/03F2EE11-365F-4FE3-B01D-0E1BBC8D9AA1.jpeg" style="width:100%" />
     </div>
     <div class="col-sm-7" style="padding:5px;" >
-    <p> Red Square....</p>
-<p>Facts about Russia:</p>
+    <p> Pirozhkis are baked/fried dough filled with sweet or savoury fillings. These buns originate from Russia but are commonly found across Eastern Europe, Central Asia and even Finland, Mongolia and Iran!</p>     
+ <p> Here are some  Pirozhki recipes, so that you can give it a go:</p>
 <ul>
-    <li>Population: (2020)</li>
-    <li>Capital: </li>
-    <li>Name: </li>
-    <li>Language: </li>
-    <li>Currency: </li>       
+    <li><a href=https://www.expresstorussia.com/experience-russia/traditional-russian-pies.html</a></li>
+    <li><a href=https://valentinascorner.com/meat-piroshki-recipe/</a></li>
+    <li><a href=https://www.sweetandsavorybyshinee.com/russian-piroshki-meat-hand-pies/</a> </li>      
 </ul>
    </div>
   </div>
