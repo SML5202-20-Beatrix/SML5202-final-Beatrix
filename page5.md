@@ -24,9 +24,9 @@ END OF COMMENTS -->
       <img src="images/A65929A3-2546-429B-8A65-418DBB1AB1C5.jpeg" style="width:100%" />
     </div>
     <div class="col-sm-7" style="padding:5px;" >
-    <p> Lake Baikal is one of the oldest lakes in the world, ageing at least 25 million years old. This UNESCO World Heritage Site is located in South-Central Russia near the city of Irkutsk.  During the summer, after the ice from the mountains has melted, the lake is so clear that it is possible to see up to 130 feet down. The lake contains 27 islands that are mostly uninhabited and a stunning array of flora and fauna.</p>
+    <p> Red Square is one of Russia’s most famous landmarks and a UNESCO World Heritage Site. Tourists come here every year to see the Kremlin walls, St Basil’s Cathedral and Lenin’s Mausoleum. The square originated as a slum until Prince Ivan III ordered the square to be cleared in the late 1400’s. The Red Square became infamous for hosting military parades during the Soviet era, most notably the parades of 7th November 1941 and 24th June 1945.</p>
 
-<p> Fun Fact: The lake contains 20% of the world’s freshwater supply.</p>
+<p> Fun Fact: The ‘red’ in Red Square does not refer to the colour or communism. It derives from the word ‘krasny - красный’ which meant ‘beautiful’ in old Russian - however in contemporary Russian ‘krasny - красный’ means red. Hence the Red Square.</p>
    </div>
   </div>
 
@@ -60,15 +60,9 @@ END OF COMMENTS -->
       <img src="images/47C5BCA5-FB60-4D2F-8A5B-C887013350B8_4_5005_c.jpeg" />
     </div>
     <div class="col-sm-7" style="padding:5px;" >
-    <p> Red Square....</p>
-<p>Facts about Russia:</p>
-<ul>
-    <li>Population: (2020)</li>
-    <li>Capital: </li>
-    <li>Name: </li>
-    <li>Language: </li>
-    <li>Currency: </li>       
-</ul>
+    <p> Lake Baikal is one of the oldest lakes in the world, ageing at least 25 million years old. This UNESCO World Heritage Site is located in South-Central Russia near the city of Irkutsk.  During the summer, after the ice from the mountains has melted, the lake is so clear that it is possible to see up to 130 feet down. The lake contains 27 islands that are mostly uninhabited and a stunning array of flora and fauna.</p>
+
+<p> <strong>Fun Fact:</strong> The lake contains 20% of the world’s freshwater supply.</p>
    </div>
   </div>
   
@@ -83,15 +77,13 @@ END OF COMMENTS -->
       <img src="images/30B23510-5D17-4594-AE44-548D9BE22AC4.jpeg" />
     </div>
     <div class="col-sm-7" style="padding:5px;" >
-    <p> Red Square....</p>
-<p>Facts about Russia:</p>
 <ul>
-    <li>Population: (2020)</li>
-    <li>Capital: </li>
-    <li>Name: </li>
-    <li>Language: </li>
-    <li>Currency: </li>       
+    <li>Born: 25th April/7th May 1840, Votkinsk, Russia</li>
+    <li> Death: 25th October/6th November 1893, St. Petersburg, Russia</li>       
 </ul>
+ <p>Pyotr Ilyich Tchaikovsky was a Russian composer famous for his composition of Swan Lake (1877), The Sleeping Beauty (1889), The Nutcracker (1892) and the overture for Romeo and Juliet (1870).</p>
+
+<p> <strong>Fun Fact:</strong> Despite being a music prodigy (composing his first piece at the age 4), Tchaikovsky trained to be a civil servant.</p>
    </div>
   </div>
   
@@ -106,15 +98,13 @@ END OF COMMENTS -->
       <img src="images/2817840C-2882-4FDC-A141-7FE2591278A3.jpeg" />
     </div>
     <div class="col-sm-7" style="padding:5px;" >
-    <p> Red Square....</p>
-<p>Facts about Russia:</p>
 <ul>
-    <li>Population: (2020)</li>
-    <li>Capital: </li>
-    <li>Name: </li>
-    <li>Language: </li>
-    <li>Currency: </li>       
+    <li>Born: 30th October/11th November 1821, Moscow, Russia</li>
+    <li> Died: 28th January/9th February 1881, St. Petersburg, Russia</li>       
 </ul>
+ <p>Fyodor Dostoevsky was a Russian author, well-known for his works Crime and Punishment (1866), Notes From Underground (1864) and The Brothers Karamazov (1880).</p>
+
+<p> <strong>Fun Fact:</strong> Dostoevsky had epilepsy. His disability first surfaced during his time at military school and became more severe during his time in exile in Siberia. These experiences influenced the creation of his novel The Idiot (1869).</p>
    </div>
   </div>
   
