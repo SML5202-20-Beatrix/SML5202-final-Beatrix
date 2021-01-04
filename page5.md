@@ -26,7 +26,7 @@ END OF COMMENTS -->
     <div class="col-sm-7" style="padding:5px;" >
     <p> Red Square is one of Russia’s most famous landmarks and a UNESCO World Heritage Site. Tourists come here every year to see the Kremlin walls, St Basil’s Cathedral and Lenin’s Mausoleum. The square originated as a slum until Prince Ivan III ordered the square to be cleared in the late 1400’s. The Red Square became infamous for hosting military parades during the Soviet era, most notably the parades of 7th November 1941 and 24th June 1945.</p>
 
-<p> Fun Fact: The ‘red’ in Red Square does not refer to the colour or communism. It derives from the word ‘krasny - красный’ which meant ‘beautiful’ in old Russian - however in contemporary Russian ‘krasny - красный’ means red. Hence the Red Square.</p>
+<p> <strong>Fun Fact:</strong> The ‘red’ in Red Square does not refer to the colour or communism. It derives from the word ‘krasny - красный’ which meant ‘beautiful’ in old Russian - however in contemporary Russian ‘krasny - красный’ means red. Hence the Red Square.</p>
    </div>
   </div>
 
