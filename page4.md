@@ -169,6 +169,8 @@
 <p>Когда́ – when</p>
 <p>На (+prep.) – on, at</p>
 <p>Но – but</p>
+<p>Но́вый – new</p>
+<p>Норма́льно – ok, normal</p>
 <p>Обы́чно – usually</p>
 <p>Отку́да – where from</p>
 <p>Сейча́с – now</p>
