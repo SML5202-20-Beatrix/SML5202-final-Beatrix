@@ -15,7 +15,7 @@
 &nbsp;
 <p> This chart shows the declension of singular nouns in Russian:</p>
 
-<style type="text/css">
+<p><style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
   border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
@@ -81,7 +81,7 @@
     <td class="tg-0lax">- е</td>
   </tr>
 </tbody>
-</table>
+</table></p>
 
 &nbsp;
 &nbsp;
@@ -90,7 +90,7 @@
 &nbsp;
 <p> This chart shows the declension of plural nouns:</p>
 
-<style type="text/css">
+<p><style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
   border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
@@ -150,7 +150,7 @@
     <td class="tg-0lax">- ах<br>- ях<br></td>
   </tr>
 </tbody>
-</table>
+</table></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
