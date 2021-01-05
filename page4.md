@@ -43,6 +43,8 @@
 <p>&nbsp;</p>
 </td>
 <td>
+  <p></p>
+  <p>Аудито́рия - audience</p>
 <p>Ба́бушка – grandmother</p>
 <p>Босс – boss</p>
 <p>Брат – brother</p>
