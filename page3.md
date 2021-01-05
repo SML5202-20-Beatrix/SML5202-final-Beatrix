@@ -907,8 +907,100 @@
 &nbsp;
 <td><p> This chart shows the declension of ‘that’:</p>
 
-<p>enter table here</p>
+<p><style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
+  word-break:normal;}
+.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-u0ju{background-color:#34cdf9;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-akrx{background-color:#34cdf9;border-color:#34cdf9;color:#333333;text-align:left;vertical-align:top}
+.tg .tg-c8qn{background-color:#ffffff;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-i4bi{background-color:#34cdf9;border-color:#34cdf9;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-akrx"></th>
+    <th class="tg-i4bi"> Masc.</th>
+    <th class="tg-i4bi"> Fem.<br></th>
+    <th class="tg-i4bi">Neut.</th>
+    <th class="tg-u0ju"> Plural</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c8qn"><span style="font-weight:bold;font-style:italic">English</span></td>
+    <td class="tg-6t3r">That</td>
+    <td class="tg-1wig"></td>
+    <td class="tg-6t3r"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Nominative</td>
+    <td class="tg-0lax"> Tот</td>
+    <td class="tg-0lax"> Та</td>
+    <td class="tg-0lax"> То</td>
+    <td class="tg-0lax"> Те</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Genitive</td>
+    <td class="tg-0lax"><span style="font-weight:normal;font-style:normal"> Tот</span><br> Tог<span style="text-decoration:underline">о</span></td>
+    <td class="tg-0lax"> Ту</td>
+    <td class="tg-0lax">  То </td>
+    <td class="tg-0lax"> Те<br> Тех</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Dative </td>
+    <td class="tg-0lax"> Tог<span style="text-decoration:underline">о</span></td>
+    <td class="tg-0lax"> Той</td>
+    <td class="tg-0lax"> Тог<span style="text-decoration:underline">о</span></td>
+    <td class="tg-0lax"> Тех</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Accusative</td>
+    <td class="tg-0lax"> Tом<span style="text-decoration:underline">у</span></td>
+    <td class="tg-0lax"> Той</td>
+    <td class="tg-0lax"> Том<span style="text-decoration:underline">у</span></td>
+    <td class="tg-0lax"> Тем</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Instrumental</td>
+    <td class="tg-0lax">  Тем</td>
+    <td class="tg-0lax"> Той</td>
+    <td class="tg-0lax"> Том</td>
+    <td class="tg-0lax"> Т<span style="text-decoration:underline">е</span>ми</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Prepositional</td>
+    <td class="tg-0lax">  Том</td>
+    <td class="tg-0lax"> Той </td>
+    <td class="tg-0lax"> Том</td>
+    <td class="tg-0lax"> Тех</td>
+  </tr>
+</tbody>
+</table></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 
+
+<table class="table table-striped">
+<thead>
+<tr>
+<th><h3>Noun Declension: Determinative Pronouns </h3></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+
+&nbsp;
+<td><p> This chart shows the declension of ‘All’:</p>
+
+<p>enter table here</p>
+</td>
