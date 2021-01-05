@@ -203,6 +203,7 @@
 <p>Аналити́ческий – analytical</p>
 <p>Большо́й – big</p>
 <p>До́брый – kind, good</p>
+<p>Интере́сно – interesting</p>
 <p>Ка́ждый – every, each</p>
 <p>Ка́чественный – quality</p>
 <p>Компью́терный – computer (adj.)</p>
