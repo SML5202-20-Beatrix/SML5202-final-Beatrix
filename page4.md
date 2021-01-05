@@ -117,7 +117,7 @@
 <tr>
 <th>Verbs</th>
 <th>Pronouns</th>
-<th>Food and drink</th>
+<th>Prepositions, Connectives/Conjunctions and Question Words</th>
 </tr>
 </thead>
 <tbody>
@@ -160,7 +160,60 @@
 </td>
 
 <td>
-<p>Пи́во - beer</p>
+<p>А – and, but</p>
+<p>В (+prep.) – in</p>
+<p>Где – where</p>
+<p>И – and</p>
+<p>Из (+gen.) – from</p>
+<p>Как – how</p>
+<p>Когда́ – when</p>
+<p>На (+prep.) – on, at</p>
+<p>Но – but</p>
+<p>Обы́чно – usually</p>
+<p>Отку́да – where from</p>
+<p>Сейча́с – now</p>
+<p>Так – so</p>
+<p>То́же – also</p>
+<p>То́лько – only</p>
+<p>У – at</p>
+<p>Чей (чья, чьё, чьи) – whose</p>
+<p>Что – what</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<h3>Part 2</h3>
+<table class="table table-striped">
+<thead>
+<tr>
+<th>Adjectives</th>
+<th>Food and Drink</th>
+<th>Objects and Other</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Чита́ть – to read</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+  
+  
+<td>
+
+<p>Я – I</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+
+<td>
+
+<p>Что – what</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
