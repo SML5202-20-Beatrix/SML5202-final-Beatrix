@@ -132,6 +132,7 @@
 <p>Рабо́тать – to work</p>
 <p>Рассказа́ть  – to tell</p>
 <p>Слу́шать – to listen</p>
+  <p>Смотре́ть – to look, to watch</p>
 <p>Спать – to sleep</p>
 <p>Чита́ть – to read</p>
 
