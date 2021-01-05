@@ -1002,5 +1002,111 @@
 &nbsp;
 <td><p> This chart shows the declension of ‘All’:</p>
 
+<p><style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
+  word-break:normal;}
+.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-u0ju{background-color:#34cdf9;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-akrx{background-color:#34cdf9;border-color:#34cdf9;color:#333333;text-align:left;vertical-align:top}
+.tg .tg-c8qn{background-color:#ffffff;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-i4bi{background-color:#34cdf9;border-color:#34cdf9;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-akrx"></th>
+    <th class="tg-i4bi"> Masc.</th>
+    <th class="tg-i4bi"> Fem.<br></th>
+    <th class="tg-i4bi">Neut.</th>
+    <th class="tg-u0ju"> Plural</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c8qn"><span style="font-weight:bold;font-style:italic">English</span></td>
+    <td class="tg-6t3r">All, the whole</td>
+    <td class="tg-1wig"></td>
+    <td class="tg-6t3r"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Nominative</td>
+    <td class="tg-0lax"> Весь</td>
+    <td class="tg-0lax"> Вся</td>
+    <td class="tg-0lax"> Всё</td>
+    <td class="tg-0lax"> Все</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Genitive</td>
+    <td class="tg-0lax"><span style="font-weight:normal;font-style:normal"> Весь</span><br> Всег<span style="text-decoration:underline">о</span></td>
+    <td class="tg-0lax"> Всю</td>
+    <td class="tg-0lax"> Всё</td>
+    <td class="tg-0lax"> Все<br> Всех</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Dative </td>
+    <td class="tg-0lax"> Всег<span style="text-decoration:underline">о</span></td>
+    <td class="tg-0lax"> Всей</td>
+    <td class="tg-0lax"> Всег<span style="text-decoration:underline">о</span></td>
+    <td class="tg-0lax"> Всех</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Accusative</td>
+    <td class="tg-0lax"> Всем<span style="text-decoration:underline">у</span></td>
+    <td class="tg-0lax"> Всей</td>
+    <td class="tg-0lax"> Всем<span style="text-decoration:underline">у</span></td>
+    <td class="tg-0lax"> Всем</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Instrumental</td>
+    <td class="tg-0lax"> Всем</td>
+    <td class="tg-0lax"> Всей</td>
+    <td class="tg-0lax"> Всем</td>
+    <td class="tg-0lax"> Всеми</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Prepositional</td>
+    <td class="tg-0lax"> Всём</td>
+    <td class="tg-0lax"> Всей </td>
+    <td class="tg-0lax"> Всём</td>
+    <td class="tg-0lax"> Всех</td>
+  </tr>
+</tbody>
+</table></p>
+</td>
+
+
+<table class="table table-striped">
+<thead>
+<tr>
+<th><h3>Noun Declension: Interrogative Pronouns “What” </h3></th>
+<th><h3>Noun Declension: Interrogative Pronouns “Who” </h3></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+
+&nbsp;
+<td><p> This chart shows the declension of ‘what’:</p>
+
 <p>enter table here</p>
+</td>
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+&nbsp;
+<td><p> This chart shows the declension of ‘who’:</p>
+
+<p>enter table here</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
