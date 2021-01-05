@@ -747,7 +747,6 @@
 </style>
 <table class="tg">
 <thead>
-<tbody>
   <tr>
     <th class="tg-c8qn"><span style="font-weight:bold;font-style:italic">English</span></th>
     <th class="tg-6t3r">Myself, himself, herself.</th>
