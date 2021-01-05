@@ -252,7 +252,28 @@
 
 <td>
 
-<p>Что – what</p>
+<p>Биле́т – ticket</p>
+<p>Бюро́ – bureau</p>
+<p>Газе́та – newspaper</p>
+<p>Дверь – door</p>
+<p>Де́ньги – money</p>
+<p>Джи́нсы – jeans</p>
+<p>Журна́л – magazine</p>
+<p>Ка́рта – 1. map 2. Card</p>
+<p>Кино́ – movie</p>
+<p>Кни́га – book</p>
+<p>Компью́тер – computer</p>
+<p>Ла́мпа – lamp</p>
+<p>Очки́ – glasses</p>
+<p>Ра́дио – radio</p>
+<p>Ру́чка – pen</p>
+<p>Стул – chair</p>
+<p>Су́мка – bag</p>
+<p>Фо́то – photo</p>
+<p>Футбо́л – football</p>
+<p>Часы́ – clock, watch</p>
+<p>Экра́н – screen</p>
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
