@@ -609,3 +609,45 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
+
+
+
+<table class="table table-striped">
+<thead>
+<tr>
+<th><h3>Noun Declension: Personal Reflexive Pronouns </h3></th>
+<th><h3>Noun Declension: Reflexive Possessive Pronouns </h3></th>
+<th><h3>Noun Declension: Emphatic Pronoun "Сам" </h3></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+
+&nbsp;
+<td><p> This chart shows the declension of singular possessive pronouns:</p>
+
+<p>enter table here</p>
+</td>
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+&nbsp;
+<td><p> This chart shows the declension of personal posessive nouns:</p>
+
+<p>enter table here</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+&nbsp;
+&nbsp;
+&nbsp;
+
+&nbsp;
+<td><p> This chart shows the declension of personal posessive nouns:</p>
+
+<p>enter table here</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
