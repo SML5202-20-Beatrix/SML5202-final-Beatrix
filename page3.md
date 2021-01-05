@@ -681,12 +681,13 @@
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-</thead>
+<thead>
 <tbody>
   <tr>
     <td class="tg-c8qn"><span style="font-weight:bold;font-style:italic">English</span></td>
     <td class="tg-6t3r">Myself, himself, herself.</td>
   </tr>
+ </thead>
   <tr>
     <td class="tg-u0ju">Nominative</td>
     <td class="tg-0lax">----</td>
