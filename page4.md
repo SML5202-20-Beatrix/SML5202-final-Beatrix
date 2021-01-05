@@ -5,6 +5,9 @@
 
 <!-- THIS IS THE FIRST TABLE -->
 <h3>Part 1</h3>
+
+<img src="images/DE4451E4-2909-4A3E-BB90-7CF719A409EB_4_5005_c.jpeg" style="width:100%" />
+
 <table class="table table-striped">
 <thead>
 <tr>
