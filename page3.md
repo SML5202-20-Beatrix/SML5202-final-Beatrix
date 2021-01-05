@@ -17,7 +17,72 @@
 &nbsp;
 <td><p> This chart shows hard adjective endings:</p>
 
-<p>enter table here</p>
+<p><style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
+  word-break:normal;}
+.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg .tg-9y2p{background-color:#3166ff;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9y2p"></th>
+    <th class="tg-9y2p">Masc.</th>
+    <th class="tg-9y2p">Fem.</th>
+    <th class="tg-9y2p">Neut.<br><br></th>
+    <th class="tg-9y2p">Plural</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9y2p">Nominative</td>
+    <td class="tg-0lax"> -ый</td>
+    <td class="tg-0lax">- ая</td>
+    <td class="tg-0lax">- ое</td>
+    <td class="tg-0lax">-ые</td>
+  </tr>
+  <tr>
+    <td class="tg-9y2p">Accusative</td>
+    <td class="tg-0lax">- ый<br>- ого(anim.)</td>
+    <td class="tg-0lax">- ую</td>
+    <td class="tg-0lax">- ое</td>
+    <td class="tg-0lax">- ые<br>- ых(anim.)</td>
+  </tr>
+  <tr>
+    <td class="tg-9y2p">Genetive</td>
+    <td class="tg-0lax">- ого</td>
+    <td class="tg-0lax">- ой</td>
+    <td class="tg-0lax">- ого</td>
+    <td class="tg-0lax">- ых</td>
+  </tr>
+  <tr>
+    <td class="tg-9y2p">Dative</td>
+    <td class="tg-0lax">- ому</td>
+    <td class="tg-0lax">- ой</td>
+    <td class="tg-0lax">- ому</td>
+    <td class="tg-0lax">- ым</td>
+  </tr>
+  <tr>
+    <td class="tg-9y2p">Instrumental</td>
+    <td class="tg-0lax">- ым</td>
+    <td class="tg-0lax">- ой</td>
+    <td class="tg-0lax">- ым</td>
+    <td class="tg-0lax">- ым</td>
+  </tr>
+  <tr>
+    <td class="tg-9y2p">Prepositional</td>
+    <td class="tg-0lax">- ом</td>
+    <td class="tg-0lax">- ой</td>
+    <td class="tg-0lax">- ом</td>
+    <td class="tg-0lax">- ых</td>
+  </tr>
+</tbody>
+</table></p>
 </td>
 
 &nbsp;
