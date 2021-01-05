@@ -651,7 +651,7 @@
 <tbody>
   <tr>
     <td class="tg-c8qn"><span style="font-weight:bold;font-style:italic">English</span></td>
-    <td class="tg-6t3r">All, the whole</td>
+    <td class="tg-6t3r">Myself, himself, herself.</td>
   </tr>
   <tr>
     <td class="tg-u0ju">Nominative</td>
