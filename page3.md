@@ -282,66 +282,61 @@
   border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
   padding:10px 5px;word-break:normal;}
 .tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-u0ju{background-color:#34cdf9;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-akrx{background-color:#34cdf9;border-color:#34cdf9;color:#333333;text-align:left;vertical-align:top}
-.tg .tg-i4bi{background-color:#34cdf9;border-color:#34cdf9;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-cfrc{background-color:#cb0000;border-color:#34cdf9;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-c8qn{background-color:#ffffff;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-v3s9{background-color:#cb0000;border-color:#34cdf9;color:#ffffff;text-align:left;vertical-align:top}
 .tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-tgtc{background-color:#cb0000;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 335px">
-<colgroup>
-<col style="width: 103px">
-<col style="width: 84px">
-<col style="width: 68px">
-<col style="width: 80px">
-</colgroup>
+<table class="tg">
 <thead>
   <tr>
-    <th class="tg-akrx"></th>
-    <th class="tg-i4bi">   1st <br>person</th>
-    <th class="tg-i4bi">  2nd<br>person </th>
-    <th class="tg-i4bi">3rd person<br></th>
+    <th class="tg-v3s9"></th>
+    <th class="tg-cfrc">   1st <br>person</th>
+    <th class="tg-cfrc">  2nd<br>person </th>
+    <th class="tg-cfrc">3rd person<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-1wig"><span style="font-weight:bold;font-style:italic">English</span></td>
+    <td class="tg-c8qn"><span style="font-weight:bold;font-style:italic">English</span></td>
     <td class="tg-6t3r">We, Us</td>
     <td class="tg-1wig"><span style="font-style:italic">You</span></td>
     <td class="tg-6t3r">They, Them</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Nominative</td>
+    <td class="tg-tgtc">Nominative</td>
     <td class="tg-0lax">      Мы</td>
     <td class="tg-0lax">   Вы</td>
     <td class="tg-0lax">    Он<span style="text-decoration:underline">и</span></td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Genitive</td>
+    <td class="tg-tgtc">Genitive</td>
     <td class="tg-0lax">      Нас</td>
     <td class="tg-0lax">   Вас</td>
     <td class="tg-0lax">   Их</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Dative </td>
+    <td class="tg-tgtc">Dative </td>
     <td class="tg-0lax">      Нас</td>
     <td class="tg-0lax">   Вас<br></td>
     <td class="tg-0lax">   Их</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Accusative</td>
+    <td class="tg-tgtc">Accusative</td>
     <td class="tg-0lax">     Нам</td>
     <td class="tg-0lax">   Вам</td>
     <td class="tg-0lax">   Им</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Instrumental</td>
+    <td class="tg-tgtc">Instrumental</td>
     <td class="tg-0lax">     Н<span style="text-decoration:underline">а</span>ми</td>
     <td class="tg-0lax">   В<span style="text-decoration:underline">а</span>ми</td>
     <td class="tg-0lax">   <span style="text-decoration:underline">И</span>ми</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Prepositional</td>
+    <td class="tg-tgtc">Prepositional</td>
     <td class="tg-0lax">     Нас</td>
     <td class="tg-0lax">   Вас</td>
     <td class="tg-0lax">   Них</td>
