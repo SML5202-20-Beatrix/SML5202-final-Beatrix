@@ -17,12 +17,29 @@
 <tr>
 <td>
 <p>&nbsp;</p>
-<p>Администра́тор - administrator, manager</p>
-<p>Актёр - actor</p>
-<p>Актри́са - actress</p>
-<p>Бухга́лтер - accountant</p>
-<p>Врач - doctor</p>
-<p>Данти́ст - dentist</p>
+  <p>Администра́тор – administrator</p>
+  <p>Актёр/Актри́са – actress</p>
+  <p>Архите́ктор – architect</p>
+  <p>Бухга́лтер – accountant</p>
+  <p>Врач – doctor</p>
+  <p>Данти́ст – dentist</p>
+  <p>Диза́йнер – designer</p>
+  <p>Дире́ктор – director</p>
+  <p>Домохозя́йка – housewife</p>
+  <p>Журнали́ст/Журнали́стка – journalist</p>
+  <p>Инспе́ктор – inspector</p>
+  <p>Инстру́ктор – instructor</p>
+  <p>Конду́ктор –  train conductor</p>
+  <p>Ме́неджер – manager</p>
+  <p>Пенсионе́р – retired, pensioner</p>
+  <p>Поли́тик – politician</p>
+  <p>Преподава́тель – teacher</p>
+  <p>Программи́ст – programmer</p>
+  <p>Секрета́рь – secretary</p>
+  <p>Спортсме́н/Спортсме́нка – athlete</p>
+  <p>Экономи́ст – economist</p>
+  <p>Юри́ст – lawyer</p>
+
 <p>&nbsp;</p>
 </td>
 <td>
