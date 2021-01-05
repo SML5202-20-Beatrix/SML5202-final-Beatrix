@@ -150,6 +150,7 @@
 <p>Оно́ – it</p>
 <p>Ты – you (informal)</p>
 <p>Чей (чья, чьё, чьи) – whose</p>
+<p>Что – what</p>
 <p>Это – it</p>
 <p>Я – I</p>
 <p>&nbsp;</p>
