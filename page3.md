@@ -81,3 +81,64 @@
 &nbsp;
 <p> This chart shows the declension of plural nouns:</p>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
+  word-break:normal;}
+.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg .tg-qekz{background-color:#cb0000;border-color:#fe0000;color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-iv1e{background-color:#cb0000;border-color:#fe0000;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-tgtc{background-color:#cb0000;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qekz"></th>
+    <th class="tg-iv1e">Masculine</th>
+    <th class="tg-iv1e">Neuter </th>
+    <th class="tg-iv1e">Feminine</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-tgtc">Nominative</td>
+    <td class="tg-0lax">- ы<br>- и</td>
+    <td class="tg-0lax">- a<br>- я</td>
+    <td class="tg-0lax">- а<br>- я</td>
+  </tr>
+  <tr>
+    <td class="tg-tgtc">Genitive</td>
+    <td class="tg-0lax">- ов/ев<br>- ей</td>
+    <td class="tg-0lax">*no ending<br>- ь/ей</td>
+    <td class="tg-0lax">- ы<br>- и</td>
+  </tr>
+  <tr>
+    <td class="tg-tgtc">Dative </td>
+    <td class="tg-0lax">- ам<br>- ям</td>
+    <td class="tg-0lax"><span style="font-weight:normal;font-style:normal;text-decoration:none">- ам</span><br><span style="font-weight:normal;font-style:normal;text-decoration:none">- ям</span><br></td>
+    <td class="tg-0lax"><span style="font-weight:normal;font-style:normal;text-decoration:none">- ам</span><br><span style="font-weight:normal;font-style:normal;text-decoration:none">- ям</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-tgtc">Accusative<br>(inanimate)</td>
+    <td class="tg-0lax">**as in Nom.</td>
+    <td class="tg-0lax">**as in Nom.</td>
+    <td class="tg-0lax"><span style="font-weight:normal;font-style:normal;text-decoration:none">**as in Nom.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-tgtc">Instrumental</td>
+    <td class="tg-0lax">- ами<br>- ями</td>
+    <td class="tg-0lax">- ами<br>- ями</td>
+    <td class="tg-0lax">- ами<br>- ями<br></td>
+  </tr>
+  <tr>
+    <td class="tg-tgtc">Prepositional</td>
+    <td class="tg-0lax">- ах<br>- ях</td>
+    <td class="tg-0lax">- ах<br>- ях<br></td>
+    <td class="tg-0lax">- ах<br>- ях<br></td>
+  </tr>
+</tbody>
+</table>
