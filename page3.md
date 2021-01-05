@@ -1,7 +1,12 @@
 <h1>Grammar Tables</h1>
+&nbsp;
+&nbsp;
+&nbsp;
+<h3>Noun Declension: Singular </h3>
 
+<p> This chart shows the declension of singular nouns in Russian:</p>
 
-<h2>Noun Declension </h2>
+&nbsp;
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
