@@ -354,8 +354,8 @@
 <table class="table table-striped">
 <thead>
 <tr>
-<th><h3>Noun Declension: Singular Personal Pronouns </h3></th>
-<th><h3>Noun Declension: Plural Personal Pronouns </h3></th>
+<th><h3>Noun Declension: Singular Possessive Pronouns </h3></th>
+<th><h3>Noun Declension: Plural Possessive Pronouns </h3></th>
 </tr>
 </thead>
 <tbody>
@@ -483,78 +483,9 @@
 &nbsp;
 
 &nbsp;
-<td><p> This chart shows the declension of personal plural nouns:</p>
+<td><p> This chart shows the declension of personal posessive nouns:</p>
 
-<p><style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
-  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
-  word-break:normal;}
-.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
-  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
-  padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-cfrc{background-color:#cb0000;border-color:#34cdf9;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-c8qn{background-color:#ffffff;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-v3s9{background-color:#cb0000;border-color:#34cdf9;color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-tgtc{background-color:#cb0000;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-v3s9"></th>
-    <th class="tg-cfrc">   1st <br>person</th>
-    <th class="tg-cfrc">  2nd<br>person </th>
-    <th class="tg-cfrc">3rd person<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-c8qn"><span style="font-weight:bold;font-style:italic">English</span></td>
-    <td class="tg-6t3r">We, Us</td>
-    <td class="tg-1wig"><span style="font-style:italic">You</span></td>
-    <td class="tg-6t3r">They, Them</td>
-  </tr>
-  <tr>
-    <td class="tg-tgtc">Nominative</td>
-    <td class="tg-0lax">      Мы</td>
-    <td class="tg-0lax">   Вы</td>
-    <td class="tg-0lax">    Он<span style="text-decoration:underline">и</span></td>
-  </tr>
-  <tr>
-    <td class="tg-tgtc">Genitive</td>
-    <td class="tg-0lax">      Нас</td>
-    <td class="tg-0lax">   Вас</td>
-    <td class="tg-0lax">   Их</td>
-  </tr>
-  <tr>
-    <td class="tg-tgtc">Dative </td>
-    <td class="tg-0lax">      Нас</td>
-    <td class="tg-0lax">   Вас<br></td>
-    <td class="tg-0lax">   Их</td>
-  </tr>
-  <tr>
-    <td class="tg-tgtc">Accusative</td>
-    <td class="tg-0lax">     Нам</td>
-    <td class="tg-0lax">   Вам</td>
-    <td class="tg-0lax">   Им</td>
-  </tr>
-  <tr>
-    <td class="tg-tgtc">Instrumental</td>
-    <td class="tg-0lax">     Н<span style="text-decoration:underline">а</span>ми</td>
-    <td class="tg-0lax">   В<span style="text-decoration:underline">а</span>ми</td>
-    <td class="tg-0lax">   <span style="text-decoration:underline">И</span>ми</td>
-  </tr>
-  <tr>
-    <td class="tg-tgtc">Prepositional</td>
-    <td class="tg-0lax">     Нас</td>
-    <td class="tg-0lax">   Вас</td>
-    <td class="tg-0lax">   Них</td>
-  </tr>
-</tbody>
-</table></p>
+<p>enter table here</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
