@@ -121,9 +121,20 @@
 <tbody>
 <tr>
 <td>
-<p>Пить - to drink&nbsp;</p>
-<p>Понима́ть - to understand</p>
-<p>Рабо́тать - to work</p>
+<p>Говори́ть – to speak</p>
+<p>Де́лать – to do</p>
+<p>Есть – 1. to<strong> be</strong> (construction Тут есть парк = There is a park here), 2. to<strong> have</strong> (construction У меня есть собака = I have a dog)</p>
+<p>Знать – to know</p>
+<p>Обе́дать – to have dinner</p>
+<p>Отдыха́ть – to relax</p>
+<p>Показа́ть – to show</p>
+<p>Понима́ть – to understand</p>
+<p>Рабо́тать – to work</p>
+<p>Рассказа́ть  – to tell</p>
+<p>Слу́шать – to listen</p>
+<p>Спать – to sleep</p>
+<p>Чита́ть – to read</p>
+
 </td>
 <td>
 <p>Он - he</p>
