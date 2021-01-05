@@ -5,7 +5,7 @@
 <table class="table table-striped">
 <thead>
 <tr>
-<th><h3>Noun Declension: Singular </h3>s</th>
+<th><h3>Noun Declension: Singular </h3></th>
 <th><h3>Noun Declension: Plural </h3></th>
 </tr>
 </thead>
