@@ -213,6 +213,7 @@
 <p>Мно́го – many, much</p>
 <p>Обы́чно – usually</p>
 <p>Прия́тно – pleasant</p>
+<p>Спорти́вный – sporty</p>
 <p>Хоро́ший – good, fine, nice</p>
 <p>Хорошо́ – ok, good, well</p>
 <p>Чуть-чуть (informal)– a little bit</p>
