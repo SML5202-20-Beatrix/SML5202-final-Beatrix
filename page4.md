@@ -192,7 +192,7 @@
 <table class="table table-striped">
 <thead>
 <tr>
-<th>Adjectives</th>
+<th>Adjectives and Adverbs</th>
 <th>Food and Drink</th>
 <th>Objects and Other</th>
 </tr>
@@ -200,7 +200,20 @@
 <tbody>
 <tr>
 <td>
-<p>Чита́ть – to read</p>
+<p>Аналити́ческий – analytical</p>
+<p>Большо́й – big</p>
+<p>До́брый – kind, good</p>
+<p>Ка́ждый – every, each</p>
+<p>Ка́чественный – quality</p>
+<p>Компью́терный – computer (adj.)</p>
+<p>Красивый - beautiful</p>
+<p>Мно́го – many, much</p>
+<p>Обы́чно – usually</p>
+<p>Прия́тно – pleasant</p>
+<p>Хоро́ший – good, fine, nice</p>
+<p>Хорошо́ – ok, good, well</p>
+<p>Чуть-чуть (informal)– a little bit</p>
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
