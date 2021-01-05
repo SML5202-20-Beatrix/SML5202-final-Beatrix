@@ -65,6 +65,7 @@
 <p>Ру́сский – Russian</p>
 <p>Семья́ – family</p>
 <p>Сестра́ – sister</p>
+  <p>Сын – son</p>
 <p>Тётя – aunt</p>
   
 <p>&nbsp;</p>
