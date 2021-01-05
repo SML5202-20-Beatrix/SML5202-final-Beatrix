@@ -123,7 +123,7 @@
 <td>
 <p>Говори́ть – to speak</p>
 <p>Де́лать – to do</p>
-<p>Есть – 1. to<strong> be</strong> 2. to<strong> have</strong></p>
+<p>Есть – 1. to<strong> be</strong> (e.g Тут есть парк = There is a park here) 2. to<strong> have</strong></p>
 <p>Знать – to know</p>
 <p>Обе́дать – to have dinner</p>
 <p>Отдыха́ть – to relax</p>
