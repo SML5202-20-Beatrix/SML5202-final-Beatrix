@@ -2,7 +2,16 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<h3>Noun Declension: Singular </h3>
+<table class="table table-striped">
+<thead>
+<tr>
+<th><h3>Noun Declension: Singular </h3>s</th>
+<th><h3>Noun Declension: Plural </h3></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+
 &nbsp;
 <p> This chart shows the declension of singular nouns in Russian:</p>
 
@@ -77,7 +86,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<h3>Noun Declension: Plural </h3>
+
 &nbsp;
 <p> This chart shows the declension of plural nouns:</p>
 
@@ -142,3 +151,6 @@
   </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
