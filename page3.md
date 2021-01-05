@@ -1148,7 +1148,53 @@
 &nbsp;
 <td><p> This chart shows the declension of ‘what’:</p>
 
-<p>enter table here</p>
+<p><style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
+  word-break:normal;}
+.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg .tg-u0ju{background-color:#34cdf9;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-c8qn{background-color:#ffffff;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c8qn"><span style="font-weight:bold;font-style:italic">English</span></th>
+    <th class="tg-6t3r">What</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-u0ju">Nominative</td>
+    <td class="tg-0lax">Что</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Accusative</td>
+    <td class="tg-0lax"> Что</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Genetive</td>
+    <td class="tg-0lax">Чег<span style="text-decoration:underline">о</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Dative</td>
+    <td class="tg-0lax">Чем<span style="text-decoration:underline">у</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Instrumental</td>
+    <td class="tg-0lax">Чем</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Prepositional</td>
+    <td class="tg-0lax">Чём</td>
+  </tr>
+</tbody>
+</table></p>
 </td>
 
 &nbsp;
