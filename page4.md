@@ -41,6 +41,7 @@
   <p>Юри́ст – lawyer</p>
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 <td>
   <p></p>
@@ -68,6 +69,7 @@
   <p>Сын – son</p>
 <p>Тётя – aunt</p>
   
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td>
@@ -135,17 +137,25 @@
   <p>Смотре́ть – to look, to watch</p>
 <p>Спать – to sleep</p>
 <p>Чита́ть – to read</p>
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 <td>
-<p>Он - he</p>
-<p>Она́ - she</p>
-<p>Они́ - they</p>
-<p>Оно́ - it</p>
-<p>Чей (чья, чьё, чьи) - whose</p>
+<p>Все – all, everything</p>
+<p>Вы – you (formal/pl.)</p>
+<p>Мы – we</p>
+<p>Он – he</p>
+<p>Она́ – she</p>
+<p>Они́ – they</p>
+<p>Оно́ – it</p>
+<p>Ты – you (informal)</p>
+<p>Чей (чья, чьё, чьи) – whose</p>
+<p>Это – it</p>
+<p>Я – I</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
+
 <td>
 <p>Пи́во - beer</p>
 <p>&nbsp;</p>
