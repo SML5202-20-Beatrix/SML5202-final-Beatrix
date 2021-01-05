@@ -172,6 +172,7 @@
 <p>Обы́чно – usually</p>
 <p>Отку́да – where from</p>
 <p>Сейча́с – now</p>
+<p>Ско́лько – how many/how much</p>
 <p>Так – so</p>
 <p>То́же – also</p>
 <p>То́лько – only</p>
