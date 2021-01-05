@@ -66,7 +66,6 @@
 <p>Тётя – aunt</p>
   
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 <td>
 <p>Би́ржа - stock exchange</p>
