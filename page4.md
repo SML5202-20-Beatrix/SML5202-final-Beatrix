@@ -71,14 +71,35 @@
 <p>&nbsp;</p>
 </td>
 <td>
-<p>Би́ржа - stock exchange</p>
-<p>Бюро́ - bureau</p>
-<p>Вокза́л - train station</p>
-<p>Казино́ - casino</p>
-<p>Кинотеа́тр - movie theater</p>
-<p>Го́род - city, town</p>
-<p>Ко́мната - room</p>
-<p>Метро́ - subway, underground, tube</p>
+<p>Аудито́рия - lecture hall</p>
+<p>Бар – bar</p>
+<p>Би́ржа – stock exchange</p>
+<p>Вокза́л – train station</p>
+<p>Вход – entrance</p>
+<p>Го́род – city</p>
+<p>Дом – house</p>
+<p>Казино́ – casino</p>
+<p>Кана́л – canal</p>
+<p>Кафе́ – café</p>
+<p>Кинотеа́тр – movie theater</p>
+<p>Клуб – club</p>
+<p>Ко́мната – room</p>
+<p>Магази́н – shop</p>
+<p>Метро́ – underground train</p>
+<p>Мо́ре – sea</p>
+<p>Музе́й – museum</p>
+<p>О́стров – island</p>
+<p>Оте́ль – hotel</p>
+<p>О́фис – office</p>
+<p>Парк – park</p>
+<p>Стадио́н – stadium</p>
+<p>Страна́ – country</p>
+<p>Теа́тр – theater</p>
+<p>У́лица – street</p>
+<p>Центр – center</p>
+<p>Шко́ла – school</p>
+
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
