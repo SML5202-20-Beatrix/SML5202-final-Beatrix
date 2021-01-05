@@ -615,8 +615,8 @@
 <table class="table table-striped">
 <thead>
 <tr>
-<th><h3>Noun Declension: Personal Reflexive Pronouns </h3></th>
-<th><h3>Noun Declension: Reflexive Possessive Pronouns </h3></th>
+<th><h3>Noun Declension: Personal Reflexive Pronouns "Себя" </h3></th>
+<th><h3>Noun Declension: Reflexive Possessive Pronouns "Свой" </h3></th>
 <th><h3>Noun Declension: Emphatic Pronoun "Сам" </h3></th>
 </tr>
 </thead>
@@ -624,7 +624,7 @@
 <tr>
 
 &nbsp;
-<td><p> This chart shows the declension of singular possessive pronouns:</p>
+<td><p> This chart shows the declension of себя:</p>
 
 <p>enter table here</p>
 </td>
@@ -634,9 +634,86 @@
 &nbsp;
 
 &nbsp;
-<td><p> This chart shows the declension of personal posessive nouns:</p>
+<td><p> This chart shows the declension of свой:</p>
 
-<p>enter table here</p>
+<p><style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
+  word-break:normal;}
+.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-u0ju{background-color:#34cdf9;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-akrx{background-color:#34cdf9;border-color:#34cdf9;color:#333333;text-align:left;vertical-align:top}
+.tg .tg-c8qn{background-color:#ffffff;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-i4bi{background-color:#34cdf9;border-color:#34cdf9;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-akrx"></th>
+    <th class="tg-i4bi"> Masc.</th>
+    <th class="tg-i4bi"> Fem.<br></th>
+    <th class="tg-i4bi">Neut.</th>
+    <th class="tg-u0ju"> Plural</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c8qn"><span style="font-weight:bold;font-style:italic">English</span></td>
+    <td class="tg-6t3r">My own, his own,</td>
+    <td class="tg-1wig"><span style="font-style:italic">her own</span></td>
+    <td class="tg-6t3r"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Nominative</td>
+    <td class="tg-0lax"> Свой</td>
+    <td class="tg-0lax"> Сво<span style="text-decoration:underline">я</span></td>
+    <td class="tg-0lax"> Сво<span style="text-decoration:underline">ё</span></td>
+    <td class="tg-0lax"> Сво<span style="text-decoration:underline">и</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Genitive</td>
+    <td class="tg-0lax"> Свой<br> Своег<span style="text-decoration:underline">о</span></td>
+    <td class="tg-0lax"> Сво<span style="text-decoration:underline">ю</span></td>
+    <td class="tg-0lax"> Сво<span style="text-decoration:underline">ё</span></td>
+    <td class="tg-0lax"> Сво<span style="text-decoration:underline">и</span><br> Сво<span style="text-decoration:underline">и</span>х</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Dative </td>
+    <td class="tg-0lax"> Своег<span style="text-decoration:underline">о</span></td>
+    <td class="tg-0lax"> Сво<span style="text-decoration:underline">е</span>й</td>
+    <td class="tg-0lax"> Своег<span style="text-decoration:underline">о</span></td>
+    <td class="tg-0lax"> Сво<span style="text-decoration:underline">и</span>х</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Accusative</td>
+    <td class="tg-0lax"> Своем<span style="text-decoration:underline">у</span></td>
+    <td class="tg-0lax">  Сво<span style="text-decoration:underline">е</span>й</td>
+    <td class="tg-0lax"> Своем<span style="text-decoration:underline">у</span></td>
+    <td class="tg-0lax"> Сво<span style="text-decoration:underline">и</span>м</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Instrumental</td>
+    <td class="tg-0lax"> Сво<span style="text-decoration:underline">и</span>м</td>
+    <td class="tg-0lax">  Сво<span style="text-decoration:underline">е</span>й</td>
+    <td class="tg-0lax"> Сво<span style="text-decoration:underline">и</span>м</td>
+    <td class="tg-0lax"> Сво<span style="text-decoration:underline">и</span>ми</td>
+  </tr>
+  <tr>
+    <td class="tg-u0ju">Prepositional</td>
+    <td class="tg-0lax"> Сво<span style="text-decoration:underline">ё</span>м</td>
+    <td class="tg-0lax">  Сво<span style="text-decoration:underline">е</span>й</td>
+    <td class="tg-0lax"> Сво<span style="text-decoration:underline">ё</span>м</td>
+    <td class="tg-0lax"> Сво<span style="text-decoration:underline">и</span>х</td>
+  </tr>
+</tbody>
+</table></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
@@ -645,7 +722,7 @@
 &nbsp;
 
 &nbsp;
-<td><p> This chart shows the declension of personal posessive nouns:</p>
+<td><p> This chart shows the declension of сам:</p>
 
 <p>enter table here</p>
 <p>&nbsp;</p>
