@@ -485,7 +485,127 @@
 &nbsp;
 <td><p> This chart shows the declension of personal posessive nouns:</p>
 
-<p>enter table here</p>
+<p><style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
+  word-break:normal;}
+.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-cfrc{background-color:#cb0000;border-color:#34cdf9;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-c8qn{background-color:#ffffff;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-v3s9{background-color:#cb0000;border-color:#34cdf9;color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-tgtc{background-color:#cb0000;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-6t3r{font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 660px">
+<colgroup>
+<col style="width: 99px">
+<col style="width: 71px">
+<col style="width: 71px">
+<col style="width: 68px">
+<col style="width: 71px">
+<col style="width: 70px">
+<col style="width: 70px">
+<col style="width: 70px">
+<col style="width: 70px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-v3s9"></th>
+    <th class="tg-cfrc">   1st <br>person<br>(Masc.)</th>
+    <th class="tg-cfrc">1st<br>person <br>(Fem.)<br></th>
+    <th class="tg-cfrc">     1st<br>person<br>(Neut.)</th>
+    <th class="tg-tgtc">    1st <br>person<br>(Pl.)</th>
+    <th class="tg-tgtc">  2nd<br>person<br>(Masc.)</th>
+    <th class="tg-tgtc">  2nd<br>person<br>(Fem.)</th>
+    <th class="tg-tgtc">  2nd <br>person<br>(Neut.)</th>
+    <th class="tg-tgtc">  2nd<br>person<br>(Pl.)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c8qn"><span style="font-weight:bold;font-style:italic">English</span></td>
+    <td class="tg-6t3r">Our</td>
+    <td class="tg-1wig"></td>
+    <td class="tg-6t3r"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="font-weight:bold;font-style:italic">Your(s)</span></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-tgtc">Nominative</td>
+    <td class="tg-0lax">   Н<span style="text-decoration:underline">а</span>ш</td>
+    <td class="tg-0lax">   Н<span style="text-decoration:underline">а</span>ша</td>
+    <td class="tg-0lax">Н<span style="text-decoration:underline">а</span>ше</td>
+    <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>ши</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>ш</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>ша</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>ше</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>ши</td>
+  </tr>
+  <tr>
+    <td class="tg-tgtc">Genitive</td>
+    <td class="tg-0lax">  Н<span style="text-decoration:underline">а</span>ш<br>  Н<span style="text-decoration:underline">а</span>шего</td>
+    <td class="tg-0lax">   Н<span style="text-decoration:underline">а</span>шу</td>
+    <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>ше</td>
+    <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>ши<br> Н<span style="text-decoration:underline">а</span>ших</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>ш<br> В<span style="text-decoration:underline">а</span>шего</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>шу</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>ше</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>ши<br> В<span style="text-decoration:underline">а</span>ших</td>
+  </tr>
+  <tr>
+    <td class="tg-tgtc">Dative </td>
+    <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>шего</td>
+    <td class="tg-0lax">  Н<span style="text-decoration:underline">а</span>шей</td>
+    <td class="tg-0lax"> <span style="font-weight:normal;font-style:normal;text-decoration:none">Н</span><span style="text-decoration:underline">а</span>шего</td>
+    <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>ших</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>шего</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>шей</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>шего</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>ших</td>
+  </tr>
+  <tr>
+    <td class="tg-tgtc">Accusative</td>
+    <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>шему</td>
+    <td class="tg-0lax">  Н<span style="text-decoration:underline">а</span>шей</td>
+    <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>шему</td>
+    <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>шим</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>шему</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>шей</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>шему</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>шим</td>
+  </tr>
+  <tr>
+    <td class="tg-tgtc">Instrumental</td>
+    <td class="tg-0lax">  Н<span style="text-decoration:underline">а</span>шим</td>
+    <td class="tg-0lax">  Н<span style="text-decoration:underline">а</span>шей</td>
+    <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>шим</td>
+    <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>шими</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>шим</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>шей</td>
+    <td class="tg-0lax">  В<span style="text-decoration:underline">а</span>шим</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>шими</td>
+  </tr>
+  <tr>
+    <td class="tg-tgtc">Prepositional</td>
+    <td class="tg-0lax">  Н<span style="text-decoration:underline">а</span>шим</td>
+    <td class="tg-0lax">  Н<span style="text-decoration:underline">а</span>шей</td>
+    <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>шем</td>
+    <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>ших</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>шем</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>шей</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>шем</td>
+    <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>ших</td>
+  </tr>
+</tbody>
+</table></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
