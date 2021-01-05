@@ -3,6 +3,45 @@
 &nbsp;
 &nbsp;
 
+<table class="table table-striped">
+<thead>
+<tr>
+<th><h3>Hard Adjective Endings </h3></th>
+<th><h3>Soft Adjective Endings</h3></th>
+<th><h3>Short Adjective Endings</h3></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+
+&nbsp;
+<td><p> This chart shows hard adjective endings:</p>
+
+<p>enter table here</p>
+</td>
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+&nbsp;
+<td><p> This chart shows soft adjective endings’:</p>
+
+<p>enter table here</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+
+&nbsp;
+<td><p> This chart shows short adjective endings’:</p>
+
+<p>enter table here</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+
+
+
 
 <table class="table table-striped">
 <thead>
