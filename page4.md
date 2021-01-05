@@ -220,8 +220,28 @@
   
   
 <td>
-
-<p>Я – I</p>
+<p>Апельсин - orange</p>
+<p>Банан</p>
+<p>Блин - pancake</p>
+<p>Бутербро́д – sandwich</p>
+<p>Вино́ - wine</p>
+<p>Вода́ – water</p>
+<p>Йо́гурт – yogurt</p>
+<p>Ко́фе – coffee</p>
+<p>Лук - onion</p>
+<p>Молоко́ - milk</p>
+<p>Морковь - Carrot</p>
+<p>Мясо - meat</p>
+<p>Пи́во – beer</p>
+<p>Помидор  - Tomato</p>
+<p>Рис - rice</p>
+<p>Рыба - fish</p>
+<p>Са́хар – sugar</p>
+<p>Сыр - cheese</p>
+<p>Хлеб - bread</p>
+<p>Чай – tea</p>
+<p>Яблоко - apple</p>
+<p>яйцо - egg</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
