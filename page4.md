@@ -196,7 +196,7 @@
 <tr>
 <th>Adjectives and Adverbs</th>
 <th>Food and Drink</th>
-<th>Objects and Other</th>
+<th>Objects</th>
 </tr>
 </thead>
 <tbody>
@@ -280,3 +280,74 @@
 </tr>
 </tbody>
 </table>
+
+
+<h3>Part 4</h3>
+<table class="table table-striped">
+<thead>
+<tr>
+<th>Time and Direction</th>
+<th>Greetings and Basic Terms</th>
+<th>Other</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Ве́чер – evening</p>
+<p>Восто́к – east</p>
+<p>Вре́мя – time</p>
+<p>День – day</p>
+<p>За́пад – west</p>
+<p>Здесь – here</p>
+<p>Ночь – night</p>
+<p>Се́вер – north</p>
+<p>Там - there</p>
+<p>У́тро – morning</p>
+<p>Юг – south</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+<td>
+<p>Да – yes</p>
+<p>Дава́й – let's</p>
+<p>До свида́ния – goodbye</p>
+<p>Здра́вствуйте – hello</p>
+<p>Извини́те – excuse me; I'm sorry</p>
+<p>Пока́(informal) – bye! </p>
+<p>Приве́т (informal)– hello</p>
+<p>Спаси́бо – thank you</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+
+<td>
+<p>Бале́т – ballet</p>
+<p>Вечери́нка – party</p>
+<p>Вме́сте – together</p>
+<p>Встре́ча – meeting</p>
+<p>Душа́ – soul</p>
+<p>Интерне́т – Internet</p>
+<p>Кот – cat</p>
+<p>Ле́кция – lecture</p>
+<p>Му́зыка – music</p>
+<p>Но́вость(-и) – news</p>
+<p>О́пера – opera</p>
+<p>Пробле́ма – problem</p>
+<p>Рабо́та – work, job</p>
+<p>Сериа́л – TV series</p>
+<p>Систе́ма – system</p>
+<p>Слова́рь – dictionary, vocabulary</p>
+<p>Соба́ка – dog</p>
+<p>Спорт – sport</p>
+<p>Шу́тка – joke</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+
