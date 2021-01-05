@@ -362,7 +362,7 @@
 <tr>
 
 &nbsp;
-<td><p> This chart shows the declension of singular personal pronouns:</p>
+<td><p> This chart shows the declension of singular possessive pronouns:</p>
 
 <p><style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
