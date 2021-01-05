@@ -6,8 +6,8 @@
 <table class="table table-striped">
 <thead>
 <tr>
-<th><h3>Hard Adjective Endings </h3></th>
-<th><h3>Soft Adjective Endings</h3></th>
+<th><h3>Normal Adjective Endings - Hard </h3></th>
+<th><h3>Normal Adjective Endings - Soft</h3></th>
 <th><h3>Short Adjective Endings</h3></th>
 </tr>
 </thead>
