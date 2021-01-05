@@ -186,7 +186,7 @@
 </table>
 
 
-<h3>Part 2</h3>
+<h3>Part 3</h3>
 <table class="table table-striped">
 <thead>
 <tr>
