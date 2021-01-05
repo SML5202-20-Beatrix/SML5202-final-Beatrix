@@ -13,7 +13,7 @@
 <tr>
 
 &nbsp;
-<p> This chart shows the declension of singular nouns in Russian:</p>
+<td><p> This chart shows the declension of singular nouns in Russian:</p>
 
 <p><style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -82,13 +82,14 @@
   </tr>
 </tbody>
 </table></p>
+</td>
 
 &nbsp;
 &nbsp;
 &nbsp;
 
 &nbsp;
-<p> This chart shows the declension of plural nouns:</p>
+<td><p> This chart shows the declension of plural nouns:</p>
 
 <p><style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
