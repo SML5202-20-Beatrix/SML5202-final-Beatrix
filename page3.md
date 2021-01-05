@@ -3,7 +3,6 @@
 &nbsp;
 &nbsp;
 
-<h2> Nouns</h2>
 
 <table class="table table-striped">
 <thead>
@@ -159,9 +158,7 @@
 <p>&nbsp;</p>
 </td>
 
-<p>&nbsp;</p>
-<h2> Personal Pronouns</h2>
-<p>&nbsp;</p>
+
 
 <table class="table table-striped">
 <thead>
