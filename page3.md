@@ -74,6 +74,10 @@
 </tbody>
 </table>
 
-<p> </p>
-<p> </p>
+&nbsp;
+&nbsp;
+&nbsp;
+<h3>Noun Declension: Plural </h3>
+&nbsp;
+<p> This chart shows the declension of plural nouns:</p>
 
