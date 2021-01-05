@@ -749,10 +749,10 @@
 <thead>
 <tbody>
   <tr>
-    <td class="tg-c8qn"><span style="font-weight:bold;font-style:italic">English</span></td>
-    <td class="tg-6t3r">Myself, himself, herself.</td>
+    <th class="tg-c8qn"><span style="font-weight:bold;font-style:italic">English</span></th>
+    <th class="tg-6t3r">Myself, himself, herself.</th>
   </tr>
- </thead>
+</thead>
   <tr>
     <td class="tg-u0ju">Nominative</td>
     <td class="tg-0lax">----</td>
