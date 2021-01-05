@@ -43,16 +43,28 @@
 <p>&nbsp;</p>
 </td>
 <td>
-<p>Ба́бушка - grandmother</p>
-<p>Босс - boss</p>
-<p>Брат - brother</p>
-<p>Де́вушка - girl</p>
-<p>Де́душка - grandfather</p>
-<p>Домохозя́йка - housewife</p>
-<p>Дочь - daughter</p>
-<p>Друг - friend</p>
-<p>&nbsp;</p>
-<p>Дя́дя - uncle</p>
+<p>Ба́бушка – grandmother</p>
+<p>Босс – boss</p>
+<p>Брат – brother</p>
+<p>Де́вушка – girl</p>
+<p>Де́душка – grandfather</p>
+<p>Дочь – daughter</p>
+<p>Друг – friend</p>
+<p>Дя́дя – uncle</p>
+<p>Жена́ – wife</p>
+<p>Клие́нт – client</p>
+<p>Колле́га – colleague</p>
+<p>Ма́ма – mother</p>
+<p>Муж – husband</p>
+<p>Па́па – father</p>
+<p>Партнёр – partner</p>
+<p>Ребёнок – child</p>
+<p>Роди́тель – parent</p>
+<p>Ру́сский – Russian</p>
+<p>Семья́ – family</p>
+<p>Сестра́ – sister</p>
+<p>Тётя – aunt</p>
+  
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
