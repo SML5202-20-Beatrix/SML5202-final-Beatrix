@@ -225,7 +225,7 @@
     <td class="tg-0lax">   Оно</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Genitive</td>
+    <td class="tg-u0ju">Accusative</td>
     <td class="tg-0lax"> Мен<span style="text-decoration:underline">я</span></td>
     <td class="tg-0lax"> Теб<span style="text-decoration:underline">я</span></td>
     <td class="tg-0lax"> Ег<span style="text-decoration:underline">о</span></td>
@@ -233,7 +233,7 @@
     <td class="tg-0lax"> Ег<span style="text-decoration:underline">о</span></td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Dative </td>
+    <td class="tg-u0ju">Genitive </td>
     <td class="tg-0lax"> <span style="font-weight:normal;font-style:normal;text-decoration:none">Мен</span><span style="text-decoration:underline">я</span></td>
     <td class="tg-0lax"><span style="font-weight:normal;font-style:normal;text-decoration:none"> Теб</span><span style="text-decoration:underline">я</span><br></td>
     <td class="tg-0lax"><span style="font-weight:normal;font-style:normal;text-decoration:none"> Ег</span><span style="text-decoration:underline">о</span><br></td>
@@ -241,7 +241,7 @@
     <td class="tg-0lax"> Ег<span style="text-decoration:underline">о</span></td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Accusative</td>
+    <td class="tg-u0ju">Dative</td>
     <td class="tg-0lax"> Мне</td>
     <td class="tg-0lax">  Теб<span style="text-decoration:underline">е</span></td>
     <td class="tg-0lax"> Ем<span style="text-decoration:underline">у</span><br></td>
@@ -314,19 +314,19 @@
     <td class="tg-0lax">    Он<span style="text-decoration:underline">и</span></td>
   </tr>
   <tr>
-    <td class="tg-tgtc">Genitive</td>
+    <td class="tg-tgtc">Accusative</td>
     <td class="tg-0lax">      Нас</td>
     <td class="tg-0lax">   Вас</td>
     <td class="tg-0lax">   Их</td>
   </tr>
   <tr>
-    <td class="tg-tgtc">Dative </td>
+    <td class="tg-tgtc">Genitive </td>
     <td class="tg-0lax">      Нас</td>
     <td class="tg-0lax">   Вас<br></td>
     <td class="tg-0lax">   Их</td>
   </tr>
   <tr>
-    <td class="tg-tgtc">Accusative</td>
+    <td class="tg-tgtc">Dative</td>
     <td class="tg-0lax">     Нам</td>
     <td class="tg-0lax">   Вам</td>
     <td class="tg-0lax">   Им</td>
@@ -425,7 +425,7 @@
     <td class="tg-0lax">  Тво<span style="text-decoration:underline">и</span></td>
   </tr>
   <tr>
-    <td class="tg-79re">Genitive</td>
+    <td class="tg-79re">Accusative</td>
     <td class="tg-0lax">     Мой<br>     Моег<span style="text-decoration:underline">о</span></td>
     <td class="tg-0lax">   Мо<span style="text-decoration:underline">ю</span></td>
     <td class="tg-0lax">   Мо<span style="text-decoration:underline">и</span><br>   Мо<span style="text-decoration:underline">и</span>х</td>
@@ -435,7 +435,7 @@
     <td class="tg-0lax">  Тво<span style="text-decoration:underline">и</span><br>  Тво<span style="text-decoration:underline">и</span>х</td>
   </tr>
   <tr>
-    <td class="tg-79re">Dative </td>
+    <td class="tg-79re">Genitive </td>
     <td class="tg-0lax">    Моег<span style="text-decoration:underline">о</span></td>
     <td class="tg-0lax">   Мо<span style="text-decoration:underline">е</span>й</td>
     <td class="tg-0lax">   Мо<span style="text-decoration:underline">и</span>х</td>
@@ -445,7 +445,7 @@
     <td class="tg-0lax">  Тво<span style="text-decoration:underline">и</span>х</td>
   </tr>
   <tr>
-    <td class="tg-79re">Accusative</td>
+    <td class="tg-79re">Dative</td>
     <td class="tg-0lax">    Моем<span style="text-decoration:underline">у</span></td>
     <td class="tg-0lax">   Мо<span style="text-decoration:underline">е</span>й</td>
     <td class="tg-0lax">   Мо<span style="text-decoration:underline">и</span>м</td>
@@ -550,7 +550,7 @@
     <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>ши</td>
   </tr>
   <tr>
-    <td class="tg-tgtc">Genitive</td>
+    <td class="tg-tgtc">Accusative</td>
     <td class="tg-0lax">  Н<span style="text-decoration:underline">а</span>ш<br>  Н<span style="text-decoration:underline">а</span>шего</td>
     <td class="tg-0lax">   Н<span style="text-decoration:underline">а</span>шу</td>
     <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>ше</td>
@@ -561,7 +561,7 @@
     <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>ши<br> В<span style="text-decoration:underline">а</span>ших</td>
   </tr>
   <tr>
-    <td class="tg-tgtc">Dative </td>
+    <td class="tg-tgtc">Genitive </td>
     <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>шего</td>
     <td class="tg-0lax">  Н<span style="text-decoration:underline">а</span>шей</td>
     <td class="tg-0lax"> <span style="font-weight:normal;font-style:normal;text-decoration:none">Н</span><span style="text-decoration:underline">а</span>шего</td>
@@ -572,7 +572,7 @@
     <td class="tg-0lax"> В<span style="text-decoration:underline">а</span>ших</td>
   </tr>
   <tr>
-    <td class="tg-tgtc">Accusative</td>
+    <td class="tg-tgtc">Dative</td>
     <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>шему</td>
     <td class="tg-0lax">  Н<span style="text-decoration:underline">а</span>шей</td>
     <td class="tg-0lax"> Н<span style="text-decoration:underline">а</span>шему</td>
@@ -678,21 +678,21 @@
     <td class="tg-0lax"> Сво<span style="text-decoration:underline">и</span></td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Genitive</td>
+    <td class="tg-u0ju">Accusative</td>
     <td class="tg-0lax"> Свой<br> Своег<span style="text-decoration:underline">о</span></td>
     <td class="tg-0lax"> Сво<span style="text-decoration:underline">ю</span></td>
     <td class="tg-0lax"> Сво<span style="text-decoration:underline">ё</span></td>
     <td class="tg-0lax"> Сво<span style="text-decoration:underline">и</span><br> Сво<span style="text-decoration:underline">и</span>х</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Dative </td>
+    <td class="tg-u0ju">Genitive </td>
     <td class="tg-0lax"> Своег<span style="text-decoration:underline">о</span></td>
     <td class="tg-0lax"> Сво<span style="text-decoration:underline">е</span>й</td>
     <td class="tg-0lax"> Своег<span style="text-decoration:underline">о</span></td>
     <td class="tg-0lax"> Сво<span style="text-decoration:underline">и</span>х</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Accusative</td>
+    <td class="tg-u0ju">Dative</td>
     <td class="tg-0lax"> Своем<span style="text-decoration:underline">у</span></td>
     <td class="tg-0lax">  Сво<span style="text-decoration:underline">е</span>й</td>
     <td class="tg-0lax"> Своем<span style="text-decoration:underline">у</span></td>
@@ -766,21 +766,21 @@
     <td class="tg-0lax"> Сам<span style="text-decoration:underline">и</span></td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Genitive</td>
+    <td class="tg-u0ju">Accusative</td>
     <td class="tg-0lax"> Сам<br> Самог<span style="text-decoration:underline">о</span></td>
     <td class="tg-0lax"> Сам<span style="text-decoration:underline">у</span></td>
     <td class="tg-0lax"> Сам<span style="text-decoration:underline">о</span></td>
     <td class="tg-0lax"> Сам<span style="text-decoration:underline">и</span><br> Сам<span style="text-decoration:underline">и</span>х</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Dative </td>
+    <td class="tg-u0ju">Genitive </td>
     <td class="tg-0lax"> Самог<span style="text-decoration:underline">о</span></td>
     <td class="tg-0lax"> Сам<span style="text-decoration:underline">о</span>й</td>
     <td class="tg-0lax"> Самог<span style="text-decoration:underline">о</span></td>
     <td class="tg-0lax"> Сам<span style="text-decoration:underline">и</span>х</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Accusative</td>
+    <td class="tg-u0ju">Dative</td>
     <td class="tg-0lax"> Самом<span style="text-decoration:underline">у</span></td>
     <td class="tg-0lax"> Сам<span style="text-decoration:underline">о</span>й</td>
     <td class="tg-0lax"> Самом<span style="text-decoration:underline">у</span></td>
@@ -862,21 +862,21 @@
     <td class="tg-0lax"> <span style="text-decoration:underline">Э</span>ти</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Genitive</td>
+    <td class="tg-u0ju">Accusative</td>
     <td class="tg-0lax"><span style="font-weight:normal;font-style:normal"> </span><span style="font-weight:normal;font-style:normal;text-decoration:underline">Э</span><span style="font-weight:normal;font-style:normal">тот</span><br> <span style="text-decoration:underline">Э</span>того</td>
     <td class="tg-0lax"> <span style="text-decoration:underline">Э</span>ту</td>
     <td class="tg-0lax"> <span style="text-decoration:underline">Э</span>то </td>
     <td class="tg-0lax"> <span style="text-decoration:underline">Э</span>ти<br> <span style="text-decoration:underline">Э</span>тих</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Dative </td>
+    <td class="tg-u0ju">Genitive </td>
     <td class="tg-0lax"> <span style="text-decoration:underline">Э</span>того</td>
     <td class="tg-0lax"> <span style="text-decoration:underline">Э</span>той</td>
     <td class="tg-0lax"> <span style="text-decoration:underline">Э</span>того</td>
     <td class="tg-0lax"> <span style="text-decoration:underline">Э</span>тих</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Accusative</td>
+    <td class="tg-u0ju">Dative</td>
     <td class="tg-0lax"> <span style="text-decoration:underline">Э</span>тому</td>
     <td class="tg-0lax"><span style="text-decoration:underline"> Э</span>той</td>
     <td class="tg-0lax"> <span style="text-decoration:underline">Э</span>тому</td>
@@ -949,21 +949,21 @@
     <td class="tg-0lax"> Те</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Genitive</td>
+    <td class="tg-u0ju">Accusative</td>
     <td class="tg-0lax"><span style="font-weight:normal;font-style:normal"> Tот</span><br> Tог<span style="text-decoration:underline">о</span></td>
     <td class="tg-0lax"> Ту</td>
     <td class="tg-0lax">  То </td>
     <td class="tg-0lax"> Те<br> Тех</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Dative </td>
+    <td class="tg-u0ju">Genitive </td>
     <td class="tg-0lax"> Tог<span style="text-decoration:underline">о</span></td>
     <td class="tg-0lax"> Той</td>
     <td class="tg-0lax"> Тог<span style="text-decoration:underline">о</span></td>
     <td class="tg-0lax"> Тех</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Accusative</td>
+    <td class="tg-u0ju">Dative</td>
     <td class="tg-0lax"> Tом<span style="text-decoration:underline">у</span></td>
     <td class="tg-0lax"> Той</td>
     <td class="tg-0lax"> Том<span style="text-decoration:underline">у</span></td>
@@ -1044,21 +1044,21 @@
     <td class="tg-0lax"> Все</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Genitive</td>
+    <td class="tg-u0ju">Accusative</td>
     <td class="tg-0lax"><span style="font-weight:normal;font-style:normal"> Весь</span><br> Всег<span style="text-decoration:underline">о</span></td>
     <td class="tg-0lax"> Всю</td>
     <td class="tg-0lax"> Всё</td>
     <td class="tg-0lax"> Все<br> Всех</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Dative </td>
+    <td class="tg-u0ju">Genitive </td>
     <td class="tg-0lax"> Всег<span style="text-decoration:underline">о</span></td>
     <td class="tg-0lax"> Всей</td>
     <td class="tg-0lax"> Всег<span style="text-decoration:underline">о</span></td>
     <td class="tg-0lax"> Всех</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Accusative</td>
+    <td class="tg-u0ju">Dative</td>
     <td class="tg-0lax"> Всем<span style="text-decoration:underline">у</span></td>
     <td class="tg-0lax"> Всей</td>
     <td class="tg-0lax"> Всем<span style="text-decoration:underline">у</span></td>
