@@ -77,6 +77,12 @@ END OF COMMENTS -->
       <img src="images/30B23510-5D17-4594-AE44-548D9BE22AC4.jpeg" />
     </div>
     <div class="col-sm-7" style="padding:5px;" >
+        
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
 <ul>
     <li>Born: 25th April/7th May 1840, Votkinsk, Russia</li>
     <li> Death: 25th October/6th November 1893, St. Petersburg, Russia</li>       
