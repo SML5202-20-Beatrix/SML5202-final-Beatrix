@@ -144,6 +144,7 @@
 <p>Все – all, everything</p>
 <p>Вы – you (formal/pl.)</p>
 <p>Мы – we</p>
+<p>Мой – my</p>
 <p>Кто – who</p>
 <p>Он – he</p>
 <p>Она́ – she</p>
