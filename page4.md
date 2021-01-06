@@ -9,12 +9,21 @@
 <p></p>
 <p></p>
 
-<div class="col-md-4">
-<div class="thumbnail"> <img style="height: 100%;" src="images/DE4451E4-2909-4A3E-BB90-7CF719A409EB_4_5005_c.jpeg" />
-<div class="caption">
-</div>
-</div>
-</div>
+  <html>
+  <head>
+    <title>Center an Image using text align center</title>
+    <style>
+      .img-container {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="img-container"> <!-- Block parent element -->
+      <img src="images/DE4451E4-2909-4A3E-BB90-7CF719A409EB_4_5005_c.jpeg" alt="John Doe">
+    </div>
+  </body>
+</html>
 
 
 
