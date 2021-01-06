@@ -8,7 +8,7 @@
 
 
 <div class="col-md-4">
-<div class="thumbnail"> <img style="height: 100%;" src="images/DE4451E4-2909-4A3E-BB90-7CF719A409EB_4_5005_c.jpeg" /></a>
+<div class="thumbnail"> <img style="height: 100%;" src="images/DE4451E4-2909-4A3E-BB90-7CF719A409EB_4_5005_c.jpeg" />
 <div class="caption">
 </div>
 </div>
