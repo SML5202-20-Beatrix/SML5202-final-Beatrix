@@ -728,7 +728,12 @@
 <tr>
 
 &nbsp;
+&nbsp;
+&nbsp;
+
+&nbsp;
 <td><p> This chart shows the declension of себя:</p>
+
 <p><style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
