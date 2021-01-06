@@ -165,7 +165,37 @@
 &nbsp;
 <td><p> This chart shows short adjective endings’:</p>
 
-<p>enter table here</p>
+<p><style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
+  word-break:normal;}
+.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg .tg-9y2p{background-color:#3166ff;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9y2p"></th>
+    <th class="tg-9y2p">Masc.</th>
+    <th class="tg-9y2p">Fem.</th>
+    <th class="tg-9y2p">Neut.<br><br></th>
+    <th class="tg-9y2p">Plural</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9y2p">Short Adjectives </td>
+    <td class="tg-0lax">     ---</td>
+    <td class="tg-0lax">- а</td>
+    <td class="tg-0lax">- о</td>
+    <td class="tg-0lax">-ы/и</td>
+  </tr>
+</tbody>
+</table></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
