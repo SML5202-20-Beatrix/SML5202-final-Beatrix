@@ -243,7 +243,56 @@
 &nbsp;
 <td><p> The Future Tense is formed by conjugating the verb “Быть” and adding a verb in its infinitive form:</p>
 
-<p>enter table here</p>
+<p><style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
+  word-break:normal;}
+.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg .tg-804y{background-color:#fd6864;color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-ce8v{background-color:#fd6864;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 364px">
+<colgroup>
+<col style="width: 173px">
+<col style="width: 191px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-804y"></th>
+    <th class="tg-ce8v"> Быть </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ce8v">            Я </td>
+    <td class="tg-0lax">    буду</td>
+  </tr>
+  <tr>
+    <td class="tg-ce8v">            Ты</td>
+    <td class="tg-0lax">   будешь</td>
+  </tr>
+  <tr>
+    <td class="tg-ce8v">         Он/Она/Оно</td>
+    <td class="tg-0lax">   будет</td>
+  </tr>
+  <tr>
+    <td class="tg-ce8v">            Мы</td>
+    <td class="tg-0lax">   будем</td>
+  </tr>
+  <tr>
+    <td class="tg-ce8v">            Вы</td>
+    <td class="tg-0lax">  будете</td>
+  </tr>
+  <tr>
+    <td class="tg-ce8v">            Они</td>
+    <td class="tg-0lax">   будут</td>
+  </tr>
+</tbody>
+</table></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
