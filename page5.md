@@ -117,3 +117,15 @@ END OF COMMENTS -->
   <p>&nbsp;</p>
   
   <h2>Culture Quiz</h2>
+  
+  
+  
+  
+  
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p><a href="https://sml5202-20-beatrix.github.io/SML5202-final-Beatrix/">Home Page</a></p>
