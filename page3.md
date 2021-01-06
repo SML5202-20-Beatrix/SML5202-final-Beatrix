@@ -1625,3 +1625,38 @@
 <p>&nbsp;</p>
 </td>
 
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<html>
+<head>
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #dd1717;} /* Red */
+.button2 {background-color: #008CBA;} /* Blue */
+</style>
+</head>
+<body>
+
+
+<button class="button button1"><a href="https://sml5202-20-beatrix.github.io/SML5202-final-Beatrix/">Back to Home Page</a></button>
+<button class="button button2"><a href="https://sml5202-20-beatrix.github.io/SML5202-final-Beatrix/page4.html">Next Page</a></button>
+
+</body>
+</html>
+
