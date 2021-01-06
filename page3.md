@@ -1649,7 +1649,7 @@
 
 
 <button class="button button1"><a href="https://sml5202-20-beatrix.github.io/SML5202-final-Beatrix/" style="color:white">Back to Home Page</a></button>
-<button class="button button2"><a href="https://sml5202-20-beatrix.github.io/SML5202-final-Beatrix/" style="color:white">Next Page</a></button>
+<button class="button button2"><a href="https://sml5202-20-beatrix.github.io/SML5202-final-Beatrix/page4.html" style="color:white">Next Page</a></button>
 
 </body>
 </html>
