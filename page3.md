@@ -1624,7 +1624,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
-</table>
+<table></table>
 
 <html>
 <head>
