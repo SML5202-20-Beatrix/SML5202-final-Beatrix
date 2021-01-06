@@ -90,7 +90,7 @@
 &nbsp;
 
 &nbsp;
-<td><p> This chart shows soft adjective endings’:</p>
+<td><p> This chart shows soft adjective endings:</p>
 
 <p><style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -163,7 +163,7 @@
 </td>
 
 &nbsp;
-<td><p> This chart shows short adjective endings’:</p>
+<td><p> This chart shows short adjective endings:</p>
 
 <p><style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
