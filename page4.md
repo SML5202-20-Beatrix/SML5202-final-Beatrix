@@ -138,12 +138,22 @@
 <p></p>
 <p></p>
 
-<div class="col-md-4">
-<div class="thumbnail"> <img style="height: 100%;" src="images/A609BBFC-E9F4-47A8-A1CE-C28C7D261B94_4_5005_c.jpeg" />
-<div class="caption">
-</div>
-</div>
-</div>
+<html>
+  <head>
+    <title>Center an Image using text align center</title>
+    <style>
+      .img-container {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="img-container"> <!-- Block parent element -->
+      <img src="images/A609BBFC-E9F4-47A8-A1CE-C28C7D261B94_4_5005_c.jpeg">
+    </div>
+  </body>
+</html>
+
 
 
 <table class="table table-striped">
@@ -226,12 +236,22 @@
 
 <h3>Part 3</h3>
 
-<div class="col-md-4">
-<div class="thumbnail"> <img style="height: 100%;" src="images/5AD9A111-500D-4919-BC8D-AA2A672FB19F_4_5005_c.jpeg" />
-<div class="caption">
-</div>
-</div>
-</div>
+ <html>
+  <head>
+    <title>Center an Image using text align center</title>
+    <style>
+      .img-container {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="img-container"> <!-- Block parent element -->
+      <img src="images/5AD9A111-500D-4919-BC8D-AA2A672FB19F_4_5005_c.jpeg">
+    </div>
+  </body>
+</html>
+
 
 
 <table class="table table-striped">
@@ -330,12 +350,22 @@
 <p></p>
 
 
-<div class="col-md-4">
-<div class="thumbnail"> <img style="height: 100%;" src="images/7D111A3D-7CB7-454A-88BC-874C4FB76687_4_5005_c.jpeg" />
-<div class="caption">
-</div>
-</div>
-</div>
+<html>
+  <head>
+    <title>Center an Image using text align center</title>
+    <style>
+      .img-container {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="img-container"> <!-- Block parent element -->
+      <img src="images/7D111A3D-7CB7-454A-88BC-874C4FB76687_4_5005_c.jpeg">
+    </div>
+  </body>
+</html>
+
 
 
 <table class="table table-striped">
