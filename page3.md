@@ -235,7 +235,37 @@
 &nbsp;
 <td><p>In the Past Tense, we look at the grammatical gender of the subject to determine how the verb should be formed:</p>
 
-<p>enter table here</p>
+<p><style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
+  word-break:normal;}
+.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg .tg-ce8v{background-color:#fd6864;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ce8v"></th>
+    <th class="tg-ce8v">Masc.</th>
+    <th class="tg-ce8v">Fem.</th>
+    <th class="tg-ce8v">Neut.</th>
+    <th class="tg-ce8v">Plural</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ce8v">Past Tense Verb Ending</td>
+    <td class="tg-0lax">    - л</td>
+    <td class="tg-0lax">- ла</td>
+    <td class="tg-0lax">- ло</td>
+    <td class="tg-0lax">- ли</td>
+  </tr>
+</tbody>
+</table></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
