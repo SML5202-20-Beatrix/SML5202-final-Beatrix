@@ -3,25 +3,14 @@
 <!-- COMMENT: To add items to the columns, simply copy an existing item with its <p></p> tags. For example <p>Актёр - actor</p>, and then paste it before the </td> tag of the section. There are some empty <p></p> tags for you to use as well. These are marked: <p>&nbsp;</p>, so you can insert items in place of the &nbsp; part. END OF COMMENT -->
 
 <!-- THIS IS THE FIRST TABLE -->
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-</head>
-<body>
+
 <h3>Part 1</h3>
 
 <p></p>
 <p></p>
 
 <div class="col-md-4">
-<div class="thumbnail"> <img style="height: 100%;" src="images/DE4451E4-2909-4A3E-BB90-7CF719A409EB_4_5005_c.jpeg" class="center" />
+<div class="thumbnail"> <img style="height: 100%;" src="images/DE4451E4-2909-4A3E-BB90-7CF719A409EB_4_5005_c.jpeg" />
 <div class="caption">
 </div>
 </div>
