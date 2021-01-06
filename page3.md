@@ -162,6 +162,98 @@
 <table class="table table-striped">
 <thead>
 <tr>
+<th><h3>Verb Conjugations: Present </h3></th>
+<th><h3>Verb Conjugations: Past</h3></th>
+<th><h3>Verb Conjugations: Future</h3></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+
+&nbsp;
+<td><p> In the Present tense, First Conjugation verbs <strong> (normally "ть") </strong> and Second Conjugation verbs <strong>(normally “ить”)</strong> are formed by removing the last two letters of the infinitive and adding the appropriate ending - as illustrated below:</p>
+
+<p><style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;
+  word-break:normal;}
+.tg th{background-color:#f0f0f0;border-bottom-width:1px;border-color:#ccc;border-style:solid;border-top-width:1px;
+  border-width:0px;color:#333;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg .tg-804y{background-color:#fd6864;color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-ce8v{background-color:#fd6864;color:#ffffff;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-804y"></th>
+    <th class="tg-ce8v">First Conjugation </th>
+    <th class="tg-ce8v">Second Conjugation </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ce8v">            Я </td>
+    <td class="tg-0lax">- ю</td>
+    <td class="tg-0lax">- ю/у</td>
+  </tr>
+  <tr>
+    <td class="tg-ce8v">            Ты</td>
+    <td class="tg-0lax">- ешь</td>
+    <td class="tg-0lax">- ишь</td>
+  </tr>
+  <tr>
+    <td class="tg-ce8v">         Он/Она/Оно</td>
+    <td class="tg-0lax">- ет</td>
+    <td class="tg-0lax">- ит</td>
+  </tr>
+  <tr>
+    <td class="tg-ce8v">            Мы</td>
+    <td class="tg-0lax">- ем</td>
+    <td class="tg-0lax">- им</td>
+  </tr>
+  <tr>
+    <td class="tg-ce8v">            Вы</td>
+    <td class="tg-0lax">- ете</td>
+    <td class="tg-0lax">- ите</td>
+  </tr>
+  <tr>
+    <td class="tg-ce8v">            Они</td>
+    <td class="tg-0lax">- ют</td>
+    <td class="tg-0lax">- ят/ат</td>
+  </tr>
+</tbody>
+</table></p>
+</td>
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+&nbsp;
+<td><p>In the Past Tense, we look at the grammatical gender of the subject to determine how the verb should be formed:</p>
+
+<p>enter table here</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+
+&nbsp;
+<td><p> The Future Tense is formed by conjugating the verb “Быть” and adding a verb in its infinitive form:</p>
+
+<p>enter table here</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+
+
+
+
+<table class="table table-striped">
+<thead>
+<tr>
 <th><h3>Normal Adjective Endings - Hard </h3></th>
 <th><h3>Normal Adjective Endings - Soft</h3></th>
 <th><h3>Short Adjective Endings</h3></th>
