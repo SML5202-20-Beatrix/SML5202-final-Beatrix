@@ -72,7 +72,7 @@
     <td class="tg-0lax">- ым</td>
     <td class="tg-0lax">- ой</td>
     <td class="tg-0lax">- ым</td>
-    <td class="tg-0lax">- ым</td>
+    <td class="tg-0lax">- ыми</td>
   </tr>
   <tr>
     <td class="tg-9y2p">Prepositional</td>
