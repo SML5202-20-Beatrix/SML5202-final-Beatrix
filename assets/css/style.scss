@@ -20,12 +20,13 @@ body {
 }
 
 /* SET STYLES FOR BANNER */
-.jumbotron { 
-	background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"); 
-	background-size: cover; 
-	height: 100%;
-}
-
+.jumbotron {
+    padding-top: 48px;
+    padding-bottom: 48px;
+    text-align: center;
+    background: #392986;
+    color: aliceblue;
+    background-image: linear-gradient(120deg, #0533a2, #dd1717);
 
 /* remove rounded corners and margin from navigation bar */
 .navbar {
