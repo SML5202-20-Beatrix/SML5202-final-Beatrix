@@ -14,7 +14,7 @@
   </head>
   <body>
     <div class="img-container"> <!-- Block parent element -->
-      <img src="images/DE4451E4-2909-4A3E-BB90-7CF719A409EB_4_5005_c.jpeg" alt="John Doe">
+      <p><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a16b4256954571.59c2bd7254cfe.gif" width="183" height="183" /></p>
     </div>
   </body>
 </html>
