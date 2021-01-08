@@ -4,9 +4,9 @@
 
 <p></p>
 
-
+<div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mORJmK1Ljgk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 <p></p>
 
 <h2>Red Square - Красная Площадь</h2>
