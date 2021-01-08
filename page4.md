@@ -4,7 +4,7 @@
 
 <!-- THIS IS THE FIRST TABLE -->
 
-<h3>Part 1</h3>
+
 
 <p></p>
 <p></p>
@@ -133,7 +133,6 @@
 
 <!-- THIS IS THE SECOND TABLE -->
 <!-- COMMENT: If you want to make a third table, just copy everything below here and paste it after -->
-<h3>Part 2</h3>
 
 <p></p>
 <p></p>
@@ -234,7 +233,6 @@
 </table>
 
 
-<h3>Part 3</h3>
 
  <html>
   <head>
@@ -345,7 +343,6 @@
 </table>
 
 
-<h3>Part 4</h3>
 <p></p>
 <p></p>
 
