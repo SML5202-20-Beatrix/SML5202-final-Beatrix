@@ -129,4 +129,26 @@ END OF COMMENTS -->
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
+  
+  <html>
+<head>
+<style>
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #dd1717;} /* Red */
+</style>
+</head>
+<body>
+
+
  <button class="button button1"><a href="https://sml5202-20-beatrix.github.io/SML5202-final-Beatrix/" style="color:white">Back to Home Page</a></button>
