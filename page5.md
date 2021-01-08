@@ -3,21 +3,7 @@
 
 
 <p></p>
- <html>
-  <head>
-    <title>Center an Image using text align center</title>
-    <style>
-      .img-container {
-        text-align: center;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="img-container"> <!-- Block parent element -->
-      <video src="<iframe width="560" height="315" src="https://www.youtube.com/embed/mORJmK1Ljgk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>">
-    </div>
-  </body>
-</html>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mORJmK1Ljgk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
