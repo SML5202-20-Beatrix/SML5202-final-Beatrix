@@ -129,4 +129,4 @@ END OF COMMENTS -->
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-  <p><a href="https://sml5202-20-beatrix.github.io/SML5202-final-Beatrix/">Back to Home Page</a></p>
+ <button class="button button1"><a href="https://sml5202-20-beatrix.github.io/SML5202-final-Beatrix/" style="color:white">Back to Home Page</a></button>
