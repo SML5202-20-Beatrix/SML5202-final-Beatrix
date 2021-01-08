@@ -1548,7 +1548,7 @@
     <td class="tg-0lax"> Что</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Genetive</td>
+    <td class="tg-u0ju">Genitive</td>
     <td class="tg-0lax">Чег<span style="text-decoration:underline">о</span></td>
   </tr>
   <tr>
@@ -1604,7 +1604,7 @@
     <td class="tg-0lax"> Кто</td>
   </tr>
   <tr>
-    <td class="tg-u0ju">Genetive</td>
+    <td class="tg-u0ju">Genitive</td>
     <td class="tg-0lax">Ког<span style="text-decoration:underline">о</span></td>
   </tr>
   <tr>
