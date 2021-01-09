@@ -33,8 +33,84 @@ END OF COMMENTS -->
    </div>
   </div>
 
+  
+  <p>&nbsp;</p>
+
+  <h2>Lake Baikal - Озеро Байкал</h2>
+   <p>&nbsp;</p>
+  
+  <div class="row">
+    <div class="col-sm-5">
+      <img src="images/27C089AB-90BC-4A36-91B9-2D4D727D5E0D.jpeg" style="width:95%" />
+    </div>
+    <div class="col-sm-7" style="padding:5px;" >
+         <p>&nbsp;</p>
+    <p> Lake Baikal is one of the oldest lakes in the world, ageing at least 25 million years old. This UNESCO World Heritage Site is located in South-Central Russia near the city of Irkutsk.  During the summer, after the ice from the mountains has melted, the lake is so clear that it is possible to see up to 130 feet down. The lake contains 27 islands that are mostly uninhabited and a stunning array of flora and fauna.</p>
+
+<p> <strong>Fun Fact:</strong> The lake contains 20% of the world’s freshwater supply.</p>
+   </div>
+  </div>
+  
+  
+   <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  
+  <h2>Pyotr Tchaikovsky - Пётр Чайковский</h2>
+   <p>&nbsp;</p>
+  <div class="row">
+    <div class="col-sm-5">
+      <img src="images/30B23510-5D17-4594-AE44-548D9BE22AC4.jpeg" />
+    </div>
+    <div class="col-sm-7" style="padding:5px;" >
+        
+  <p></p>
+ 
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+<ul>
+    <li>Born: 25th April/7th May 1840, Votkinsk, Russia</li>
+    <li> Death: 25th October/6th November 1893, St. Petersburg, Russia</li>       
+</ul>
+ <p>Pyotr Ilyich Tchaikovsky was a Russian composer famous for his composition of Swan Lake (1877), The Sleeping Beauty (1889), The Nutcracker (1892) and the overture for Romeo and Juliet (1870).</p>
+
+<p> <strong>Fun Fact:</strong> Despite being a music prodigy (composing his first piece at the age 4), Tchaikovsky trained to be a civil servant.</p>
+   </div>
+  </div>
+  
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  
+   <h2>Fyodor Dostoevsky - Фёдор Достоевский</h2>
+   <p>&nbsp;</p>
+  
+  <div class="row">
+    <div class="col-sm-5">
+      <img src="images/2817840C-2882-4FDC-A141-7FE2591278A3.jpeg" />
+    </div>
+    <div class="col-sm-7" style="padding:5px;" >
+
 <p>&nbsp;</p>
- <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<ul>
+    <li>Born: 30th October/11th November 1821, Moscow, Russia</li>
+    <li> Died: 28th January/9th February 1881, St. Petersburg, Russia</li>       
+</ul>
+ <p>Fyodor Dostoevsky was a Russian author, well-known for his works Crime and Punishment (1866), Notes From Underground (1864) and The Brothers Karamazov (1880).</p>
+
+<p> <strong>Fun Fact:</strong> Dostoevsky had epilepsy. His disability first surfaced during his time at military school and became more severe during his time in exile in Siberia. These experiences influenced the creation of his novel The Idiot (1869).</p>
+   </div>
+  </div>
+  
+  <p>&nbsp;</p>
+ 
  
 <h2> Pirozhki - Пирожки</h2>
  <p>&nbsp;</p>
@@ -122,83 +198,6 @@ END OF COMMENTS -->
    </div>
   </div>
   
-  
-  <p>&nbsp;</p>
-
-  <h2>Lake Baikal - Озеро Байкал</h2>
-   <p>&nbsp;</p>
-  
-  <div class="row">
-    <div class="col-sm-5">
-      <img src="images/27C089AB-90BC-4A36-91B9-2D4D727D5E0D.jpeg" style="width:95%" />
-    </div>
-    <div class="col-sm-7" style="padding:5px;" >
-         <p>&nbsp;</p>
-    <p> Lake Baikal is one of the oldest lakes in the world, ageing at least 25 million years old. This UNESCO World Heritage Site is located in South-Central Russia near the city of Irkutsk.  During the summer, after the ice from the mountains has melted, the lake is so clear that it is possible to see up to 130 feet down. The lake contains 27 islands that are mostly uninhabited and a stunning array of flora and fauna.</p>
-
-<p> <strong>Fun Fact:</strong> The lake contains 20% of the world’s freshwater supply.</p>
-   </div>
-  </div>
-  
-  
-   <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  
-  <h2>Pyotr Tchaikovsky - Пётр Чайковский</h2>
-   <p>&nbsp;</p>
-  <div class="row">
-    <div class="col-sm-5">
-      <img src="images/30B23510-5D17-4594-AE44-548D9BE22AC4.jpeg" />
-    </div>
-    <div class="col-sm-7" style="padding:5px;" >
-        
-  <p></p>
- 
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-<ul>
-    <li>Born: 25th April/7th May 1840, Votkinsk, Russia</li>
-    <li> Death: 25th October/6th November 1893, St. Petersburg, Russia</li>       
-</ul>
- <p>Pyotr Ilyich Tchaikovsky was a Russian composer famous for his composition of Swan Lake (1877), The Sleeping Beauty (1889), The Nutcracker (1892) and the overture for Romeo and Juliet (1870).</p>
-
-<p> <strong>Fun Fact:</strong> Despite being a music prodigy (composing his first piece at the age 4), Tchaikovsky trained to be a civil servant.</p>
-   </div>
-  </div>
-  
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
-  
-   <h2>Fyodor Dostoevsky - Фёдор Достоевский</h2>
-   <p>&nbsp;</p>
-  
-  <div class="row">
-    <div class="col-sm-5">
-      <img src="images/2817840C-2882-4FDC-A141-7FE2591278A3.jpeg" />
-    </div>
-    <div class="col-sm-7" style="padding:5px;" >
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<ul>
-    <li>Born: 30th October/11th November 1821, Moscow, Russia</li>
-    <li> Died: 28th January/9th February 1881, St. Petersburg, Russia</li>       
-</ul>
- <p>Fyodor Dostoevsky was a Russian author, well-known for his works Crime and Punishment (1866), Notes From Underground (1864) and The Brothers Karamazov (1880).</p>
-
-<p> <strong>Fun Fact:</strong> Dostoevsky had epilepsy. His disability first surfaced during his time at military school and became more severe during his time in exile in Siberia. These experiences influenced the creation of his novel The Idiot (1869).</p>
-   </div>
-  </div>
-  
-  <p>&nbsp;</p>
   
   <h2>Culture Quiz</h2>
   
