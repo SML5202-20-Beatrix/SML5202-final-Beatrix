@@ -153,8 +153,7 @@ END OF COMMENTS -->
     <div class="col-sm-7" style="padding:5px;" >
         
   <p></p>
-  <p>&nbsp;</p>
-  <p>&nbsp;</p>
+ 
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
@@ -184,9 +183,6 @@ END OF COMMENTS -->
     </div>
     <div class="col-sm-7" style="padding:5px;" >
 
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
