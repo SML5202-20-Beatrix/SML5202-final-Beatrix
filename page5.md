@@ -8,10 +8,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mORJmK1Ljgk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <p></p>
-
+ <p>&nbsp;</p>
+  <p>&nbsp;</p>
 <h2>Red Square - Красная Площадь</h2>
-<p>The example on this page shows image and text arranged in two columns</p>
-
+ <p>&nbsp;</p>
 <!-- 
 COMMENTS: The code below is for a two column layout with image on the left and text on the right.
 The page is divided into 12 possible units. So in this example, the left column is 5 units wide and the right column is 7 units wide. This is done using the col-sm-5 and col-sm-7, which you can see below. 
@@ -34,9 +34,10 @@ END OF COMMENTS -->
   </div>
 
 <p>&nbsp;</p>
-
+ <p>&nbsp;</p>
+ 
 <h2> Pirozhki - Пирожки</h2>
-
+ <p>&nbsp;</p>
 <div class="row">
     <div class="col-sm-5">
       <img src="images/03F2EE11-365F-4FE3-B01D-0E1BBC8D9AA1.jpeg" style="width:100%" />
@@ -125,13 +126,14 @@ END OF COMMENTS -->
   <p>&nbsp;</p>
 
   <h2>Lake Baikal - Озеро Байкал</h2>
-  
+   <p>&nbsp;</p>
   
   <div class="row">
     <div class="col-sm-5">
       <img src="images/27C089AB-90BC-4A36-91B9-2D4D727D5E0D.jpeg" style="width:95%" />
     </div>
     <div class="col-sm-7" style="padding:5px;" >
+         <p>&nbsp;</p>
     <p> Lake Baikal is one of the oldest lakes in the world, ageing at least 25 million years old. This UNESCO World Heritage Site is located in South-Central Russia near the city of Irkutsk.  During the summer, after the ice from the mountains has melted, the lake is so clear that it is possible to see up to 130 feet down. The lake contains 27 islands that are mostly uninhabited and a stunning array of flora and fauna.</p>
 
 <p> <strong>Fun Fact:</strong> The lake contains 20% of the world’s freshwater supply.</p>
@@ -139,11 +141,11 @@ END OF COMMENTS -->
   </div>
   
   
-  
+   <p>&nbsp;</p>
   <p>&nbsp;</p>
   
   <h2>Pyotr Tchaikovsky - Пётр Чайковский</h2>
-  
+   <p>&nbsp;</p>
   <div class="row">
     <div class="col-sm-5">
       <img src="images/30B23510-5D17-4594-AE44-548D9BE22AC4.jpeg" />
@@ -170,11 +172,11 @@ END OF COMMENTS -->
    </div>
   </div>
   
-  
+  <p>&nbsp;</p>
   <p>&nbsp;</p>
   
    <h2>Fyodor Dostoevsky - Фёдор Достоевский</h2>
-  
+   <p>&nbsp;</p>
   
   <div class="row">
     <div class="col-sm-5">
@@ -182,9 +184,7 @@ END OF COMMENTS -->
     </div>
     <div class="col-sm-7" style="padding:5px;" >
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
