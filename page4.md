@@ -435,8 +435,7 @@
 
 <table></table>
 
-[color=navy]
-<!DOCTYPE html>
+
 <html  lang="en">
 <head>
 
@@ -559,7 +558,7 @@ function makeClickHandler(c) {
 </div><!-- end #keyboard -->
 
 </body>
-</html>[/color]
+</html>
 
 <p>&nbsp;</p>
 
