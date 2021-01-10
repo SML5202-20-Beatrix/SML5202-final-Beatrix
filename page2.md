@@ -230,7 +230,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/03161507-71C9-4A34-8695-AB452281B338_4_5005_c.jpeg" />
       <div class="caption">
           <p>Б = B like in <strong>B</strong>ox</p>
         </div>
@@ -397,7 +397,7 @@
   
  <p><div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/1C0275B8-70AE-470E-A656-CF7615C301BA_4_5005_c.jpeg" />
       <div class="caption">
           <p>Я = YA like in <strong>ya</strong>rd</p>
         </div>
@@ -425,7 +425,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/4C5D27AF-77AE-4029-9009-0A1E15D0A838_4_5005_c.jpeg" />
       <div class="caption">
           <p>Ю = YU like in <strong>u</strong>nicorn</p>
         </div>
@@ -439,7 +439,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/06E16F3F-E5E9-4B17-B671-FEABE6A8615C_4_5005_c.jpeg" />
       <div class="caption">
           <p>Ы = close to ill</p>
         </div>
