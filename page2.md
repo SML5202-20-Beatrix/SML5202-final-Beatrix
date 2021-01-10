@@ -458,7 +458,6 @@
    
 <p><div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
       <div class="caption">
           <p>An unstressed <strong>о</strong> becomes <strong>а</strong></p>
         </div>
@@ -472,7 +471,6 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
       <div class="caption">
           <p>Unstressed <strong>E</strong> or <strong>Я</strong> becomes <strong>ye</strong></p>
         </div>
@@ -487,7 +485,6 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
       <div class="caption">
           <p>Unstressed <strong>E</strong> or <strong>Я</strong> becomes <strong>ee</strong></p>
         </div>
