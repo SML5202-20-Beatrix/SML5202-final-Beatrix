@@ -1,7 +1,9 @@
 <h1>Russian Culture</h1>
-<p>Information on Russian Culture</p>
+<p></p>
+<p></p>
+<p>Check out these 5 key pieces of Russian Culture! Take the quiz at the end to test what you have learnt</p>
 
-
+<p>&nbsp;</p>
 <p></p>
 
 <div align="center">
