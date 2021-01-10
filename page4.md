@@ -434,6 +434,94 @@
 </table>
 
 <table></table>
+
+<html  lang="en">
+<head>
+
+<meta charset="utf-8">
+
+<title>keyboard</title>
+
+<style media="screen">
+body {
+    background-color:#f0f0f0;
+ }
+#keyboard {
+    display:inline-block;
+    padding:10px 15px;
+    border:1px solid #009;
+    border-radius:10px;
+    background-color:#87cdf9;
+    text-align:center;
+    box-shadow:4px 4px 4px #999;
+ }
+#keyboard div {
+    margin:5px 0;
+ }
+#space {
+    width:184px;
+ }
+#keyboard label {
+    margin-top:20px;
+    font-family:serif;
+    text-decoration:underline;
+ }
+#keyboard input {
+    box-shadow:2px 2px 2px #666;
+ }
+#keyboard input[type="text"] {
+    margin-top:20px;
+    border:1px solid #666;
+    border-radius:4px;
+    box-shadow:none;
+ }
+</style>
+
+<script>
+(function() {
+   'use strict';
+   var i,c;
+function init(){ 
+   i=document.getElementById('keyboard').getElementsByTagName('input');
+for(c=0;c<i.length;c++) {
+if(i[c].type==='button') {
+   i[c].addEventListener('onclick',makeClickHandler(c));
+   }
+  }
+
+document.getElementById('clear').onclick=function() {
+   document.getElementById('text').value='';
+  }
+ }
+
+function makeClickHandler(c) {
+   i[c].onclick=function() {
+   document.getElementById('text').value+=this.value.toLowerCase();
+  };
+ }
+
+   window.addEventListener?
+   window.addEventListener('load',init,false):
+   window.attachEvent('onload',init);
+})();
+</script>
+
+</head>
+<body>
+
+
+<div id="keyboard">
+<div><input type="button" value="Й" /> <input type="button" value="Ц" /> <input type="button" value="У" /> <input type="button" value="К" /> <input type="button" value="Е" /> <input type="button" value="Н" /> <input type="button" value="Г" /> <input type="button" value="Ш" /> <input type="button" value="Щ" /> <input type="button" value="З" /><input type="button" value="Х" /><input type="button" value="Ё" /></div>
+<div><input type="button" value="Ф" /> <input type="button" value="Ы" /> <input type="button" value="В" /> <input type="button" value="А" /> <input type="button" value="П" /> <input type="button" value="О" /> <input type="button" value="Л" /> <input type="button" value="Д" /> <input type="button" value="Ж" /><input type="button" value="Э" /></div>
+<div><input type="button" value="Я" /> <input type="button" value="Ч" /> <input type="button" value="С" /> <input type="button" value="М" /> <input type="button" value="И" /> <input type="button" value="Т" /> <input type="button" value="Ь" /><input type="button" value="Б" /><input type="button" value="Ю" /></div>
+<div><input id="space" type="button" value=" " /> <input id="clear" type="reset" value="clear" /></div>
+</div>
+<!-- end #keyboard -->
+</body>
+</html>
+
+<p>&nbsp;</p>
+
 <html>
 <head>
 <style>
