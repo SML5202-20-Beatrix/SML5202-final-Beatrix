@@ -50,7 +50,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/C6AD6D02-B333-4C5A-B261-0A7765B083CB_4_5005_c.jpeg" />
+      <img src="BE741934-54C0-44C4-A956-8A8929085A22_4_5005_c.jpeg" />
       <div class="caption">
           <p>Е = Е like in <strong>ye</strong>t</p>
         </div>
@@ -65,7 +65,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/C6AD6D02-B333-4C5A-B261-0A7765B083CB_4_5005_c.jpeg" />
+      <img src="BA2358EC-1D40-4C0C-B553-E5A9064E33CB_4_5005_c.jpeg" />
       <div class="caption">
           <p>И = I like in f<strong>ee</strong>t</p>
         </div>
@@ -79,7 +79,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/C6AD6D02-B333-4C5A-B261-0A7765B083CB_4_5005_c.jpeg" />
+      <img src="E3D15C5C-D00D-406E-8D36-8CDC95D9CE0A_4_5005_c.jpeg" />
       <div class="caption">
           <p> У= oo like in f<strong>oo</strong>d</p>
         </div>
@@ -94,7 +94,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/C6AD6D02-B333-4C5A-B261-0A7765B083CB_4_5005_c.jpeg" />
+      <img src="0209ABF9-3A5A-4017-AFF8-60C90E0C7EE1_4_5005_c.jpeg" />
       <div class="caption">
           <p> Э= eh like in m<strong>e</strong>t</p>
         </div>
