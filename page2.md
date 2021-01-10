@@ -546,7 +546,7 @@
 </audio></p>
   </tr>
 </tbody>
-</table></p>
+</table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
