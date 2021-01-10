@@ -549,8 +549,8 @@
           <p>В becomes <strong>Ф</strong></p>
           <p>Г becomes <strong>К</strong></p>
           <p>Д becomes <strong>Т</strong></p>
-          <p>З becomes <strong>С</strong></p>
           <p>Ж becomes <strong>Ш</strong></p>
+          <p>З becomes <strong>С</strong></p>
         </div>
     </div>
   </div>
