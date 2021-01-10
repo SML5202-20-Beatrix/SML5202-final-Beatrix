@@ -22,13 +22,13 @@
   </body>
 </html>
   
-  
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">If you want to improve your Russian then you have come to the right place! Russian with Beatrix offers free resources to help you in your Russian learning process and don&rsquo;t forget to test your knowledge through our flashcards, quizzes and more!</span></p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <h3><strong>Phonetics</strong><span style="font-weight: 400;">&nbsp;</span></h3>
 <div class="img-container"><!-- Block parent element --> <img src="images/682CB91D-301C-4697-80D4-3477C1DC73A7_4_5005_c.jpeg" alt="John Doe" /></div>
 <p>&nbsp;</p>
