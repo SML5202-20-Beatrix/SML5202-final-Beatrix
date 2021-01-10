@@ -11,8 +11,8 @@
 <thead>
 <tr>
 <th><h3>Vowels</h3></th>
-<th><h3>Verb Conjugations: Past</h3></th>
-<th><h3>Verb Conjugations: Future</h3></th>
+<th><h3>Consonants</h3></th>
+<th><h3>Unstressed and Devoiced Phonetics</h3></th>
 </tr>
 </thead>
 <tbody>
