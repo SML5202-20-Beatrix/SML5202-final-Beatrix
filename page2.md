@@ -73,7 +73,7 @@
   </div>
  
   <audio controls>
-  <source src="Phonetics A.mp3" type="audio/mpeg">
+  <source src="audio-file/И.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
 
@@ -87,7 +87,7 @@
   </div>
  
   <audio controls>
-  <source src="Phonetics A.mp3" type="audio/mpeg">
+  <source src="audio-file/У.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
 
@@ -102,7 +102,7 @@
   </div>
  
   <audio controls>
-  <source src="Phonetics A.mp3" type="audio/mpeg">
+  <source src="audio-file/Э.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio></p>
 
