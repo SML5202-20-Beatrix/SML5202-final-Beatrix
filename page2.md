@@ -473,6 +473,16 @@
     <div class="col-sm-5">
       <div class="caption">
           <p>An unstressed <strong>о</strong> becomes <strong>а</strong></p>
+        <p>&nbsp;e.g.:</p>
+<ul style="list-style-type: square;">
+<li><span style="font-weight: 400;">окно́</span></li>
+<li><span style="font-weight: 400;"> Москв&aacute; </span></li>
+<li><span style="font-weight: 400;">ко́смос</span></li>
+<li><span style="font-weight: 400;">л&aacute;мпа</span></li>
+<li><span style="font-weight: 400;"> каранд&aacute;ш</span></li>
+<li><span style="font-weight: 400;"> профе́ссор</span></li>
+<li><span style="font-weight: 400;"> хорошо́</span></li>
+</ul>
         </div>
     </div>
   </div>
@@ -487,6 +497,13 @@
     <div class="col-sm-5">
       <div class="caption">
           <p>Unstressed <strong>E</strong> or <strong>Я</strong> becomes <strong>ye</strong></p>
+        <p><span style="font-weight: 400;">e.g.:</span></p>
+<ul style="list-style-type: square;">
+<li><span style="font-weight: 400;">но́мер</span></li>
+<li><span style="font-weight: 400;">учи́тель</span></li>
+<li><span style="font-weight: 400;"> де́сять</span></li>
+<li><span style="font-weight: 400;"> дя́дя</span></li>
+</ul>
         </div>
     </div>
   </div>
@@ -502,6 +519,18 @@
     <div class="col-sm-5">
       <div class="caption">
           <p>Unstressed <strong>E</strong> or <strong>Я</strong> becomes <strong>ee</strong></p>
+        <p><span style="font-weight: 400;">e.g.:</span></p>
+<ul style="list-style-type: square;">
+<li>
+<p><span style="font-weight: 400;">сестр&aacute;</span></p>
+</li>
+<li>
+<p><span style="font-weight: 400;"> мечт&aacute; </span></p>
+</li>
+<li>
+<p><span style="font-weight: 400;">пятиэт&aacute;жка</span></p>
+<span style="font-weight: 400;"><br /><br /></span></li>
+</ul>
         </div>
     </div>
   </div>
