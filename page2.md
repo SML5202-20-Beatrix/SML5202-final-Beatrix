@@ -5,7 +5,7 @@
 <h1>Phonetics</h1>
 <p></p>
 <p></p>
-<p>Below is a list of the Russian phonetics with accompanying audio for you to listen to and repeat.</p>
+<p>Below is a list of the Russian phonetics with accompanying audio for you to listen to and repeat.Don't forget to record yourself using the audio recorder to check your pronunciation! Download the audio as a reminder of how the phonetics sound or send it to your teacher for correction. </p>
 <p>&nbsp;</p>
 <table class="table table-striped">
 <thead>
