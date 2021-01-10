@@ -503,7 +503,12 @@
     <div class="col-sm-5">
       <div class="caption">
           <p>Some consonants have voice and voiceless pairs</p>
-          <p> Б becomes <strong>П</strong>, В becomes <strong>Ф</strong>, Г becomes <strong>К</strong>, Д becomes <strong>Т</strong>, З becomes <strong>С</strong> and Ж becomes <strong>Ш</strong>
+          <p> Б becomes <strong>П</strong></p>
+          <p>В becomes <strong>Ф</strong></p>
+          <p>Г becomes <strong>К</strong></p>
+          <p>Д becomes <strong>Т</strong></p>
+          <p>З becomes <strong>С</strong></p>
+          <p>Ж becomes <strong>Ш</strong></p>
         </div>
     </div>
   </div>
