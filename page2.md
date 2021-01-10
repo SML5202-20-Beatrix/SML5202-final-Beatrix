@@ -568,6 +568,7 @@
 <body>
 
 <h2>Practice your pronunciation:</h2>
+<p> Read the words below aloud to practice your pronunciation. Why not record yourself using the audio recorder at the bottom of the page and send it to your teacher to check.
 
 <div class="row">
   <div class="column" style="background-color:#fff;">
