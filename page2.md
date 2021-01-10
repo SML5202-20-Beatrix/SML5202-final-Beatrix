@@ -11,18 +11,17 @@
 <table class="table table-striped">
 <thead>
 <tr>
-<th><h3>Vowels</h3></th>
-<th><h3>Consonants</h3></th>
-<th><h3> </h3></th>
-<th><h3>Unstressed and De-voiced Vowels </h3></th>
+  <th><h3>Vowels</h3></th>
+  <th><h3>Consonants</h3></th>
+  <th><h3></h3></th>
+  <th><h3>Unstressed/De-voiced Vowels</h3></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-
-&nbsp;
-<td><p>&nbsp;</p>
-  <p><div class="row">
+<td>
+<p>&nbsp;</p>
+<p><div class="row">
     <div class="col-sm-5">
       <img src="images/F8F3FAFE-2AFC-4F1E-8929-6D0CBF0F0F8E_4_5005_c.jpeg" />
       <div class="caption">
@@ -470,10 +469,7 @@
   <audio controls>
   <source src="audio-file/Ы.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
-</audio> </p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
+</audio></p>
 </td>
 
 <td>
@@ -542,6 +538,7 @@
 </tr>
 </tbody>
 </table>
+<p></p>
 <table></table>
 
 <html>
