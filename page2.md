@@ -3,6 +3,9 @@
 <!-- THIS IS THE FIRST TABLE -->
 
 <h1>Phonetics</h1>
+<p></p>
+<p></p>
+<p>Below is a list of the Russian phonetics with accompanying audio for you to listen to and repeat.</p>
 <p>&nbsp;</p>
 <table class="table table-striped">
 <thead>
