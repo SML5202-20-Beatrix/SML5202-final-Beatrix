@@ -139,7 +139,7 @@ function makeClickHandler(c) {
 <!-- end #keyboard -->
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><span style="font-weight: 400;">Recommended Resources for Beginner Learning:</span></p>
+<h3><span style="font-weight: 400;">Recommended Resources for Beginner Learning:</span></h3>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Beginner&rsquo;s Russian with Interactive Online Workbook:&nbsp;</span><a href="https://www.amazon.co.uk/gp/product/0781812518/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&amp;psc=1"><span style="font-weight: 400;">https://www.amazon.co.uk/gp/product/0781812518/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&amp;psc=1</span></a></li>
