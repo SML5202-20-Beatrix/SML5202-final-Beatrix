@@ -3,7 +3,7 @@
 <!-- THIS IS THE FIRST TABLE -->
 
 <h1>Phonetics</h1>
-<&nbsp;>
+<p>&nbsp;</p>
 <table class="table table-striped">
 <thead>
 <tr>
