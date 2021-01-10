@@ -40,7 +40,7 @@
 <td>
 <p>&nbsp;</p>
   <p>Администра́тор – administrator</p>
-  <p>Актёр/Актри́са – actress</p>
+  <p>Актёр/Актри́са – actor</p>
   <p>Архите́ктор – architect</p>
   <p>Бухга́лтер – accountant</p>
   <p>Врач – doctor</p>
