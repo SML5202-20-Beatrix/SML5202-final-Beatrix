@@ -18,7 +18,7 @@
 <tbody>
 <tr>
 
-&nbsp;
+<p>&nbsp;</p>
 
 <td>
     <p> <div class="row">
@@ -34,6 +34,7 @@
   <source src="Phonetics A.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -48,6 +49,7 @@
   <source src="Phonetics A.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -63,6 +65,7 @@
   Your browser does not support the audio tag.
 </audio>
 
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -77,6 +80,7 @@
   <source src="audio-file/И.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -92,7 +96,7 @@
   Your browser does not support the audio tag.
 </audio>
 
-
+<p>&nbsp;</p>
 <div class="row">
     <div class="col-sm-5">
       <img src="0209ABF9-3A5A-4017-AFF8-60C90E0C7EE1_4_5005_c.jpeg" />
@@ -129,6 +133,7 @@
   <source src="audio-file/М.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -143,6 +148,7 @@
   <source src="audio-file/К.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -157,6 +163,7 @@
   <source src="audio-file/Т.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -171,6 +178,7 @@
   <source src="audio-file/Н.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -185,6 +193,7 @@
   <source src="audio-file/С.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -199,6 +208,7 @@
   <source src="audio-file/Л.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -213,6 +223,7 @@
   <source src="audio-file/Р.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -227,6 +238,7 @@
   <source src="audio-file/В.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -241,6 +253,7 @@
   <source src="audio-file/Б.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -255,6 +268,7 @@
   <source src="audio-file/П.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -269,6 +283,7 @@
   <source src="audio-file/Д.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -283,6 +298,7 @@
   <source src="audio-file/Г.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -297,6 +313,7 @@
   <source src="audio-file/Ф.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -311,6 +328,7 @@
   <source src="audio-file/Х.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -325,6 +343,7 @@
   <source src="audio-file/З.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -339,6 +358,7 @@
   <source src="audio-file/Ж.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -353,6 +373,7 @@
   <source src="audio-file/Щ.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -367,6 +388,7 @@
   <source src="audio-file/Ч.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -381,6 +403,7 @@
   <source src="audio-file/Ц.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -394,7 +417,8 @@
   <source src="audio-file/Й.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
-  
+ <p>&nbsp;</p>
+ 
  <p><div class="row">
     <div class="col-sm-5">
       <img src="images/1C0275B8-70AE-470E-A656-CF7615C301BA_4_5005_c.jpeg" />
@@ -408,6 +432,7 @@
   <source src="audio-file/Я.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -422,6 +447,7 @@
   <source src="audio-file/Ё.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -436,6 +462,7 @@
   <source src="audio-file/Ю.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -468,6 +495,7 @@
   <source src="audio-file/О-a.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -482,6 +510,7 @@
   Your browser does not support the audio tag.
 </audio>
 
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
@@ -495,6 +524,7 @@
   <source src="audio-file/Е:Я-ee.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
+<p>&nbsp;</p>
 
 <div class="row">
     <div class="col-sm-5">
