@@ -13,16 +13,14 @@
 <th><h3>Vowels</h3></th>
 <th><h3>Consonants</h3></th>
 <th><h3> </h3></th>
- <th><h3>Unstressed and Devoiced Phonetics</h3></th>
+<th><h3>Unstressed and Devoiced Phonetics</h3></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-
-<p>&nbsp;</p>
-
 <td>
-    <p> <div class="row">
+<p>&nbsp;</p>
+  <p><div class="row">
     <div class="col-sm-5">
       <img src="images/F8F3FAFE-2AFC-4F1E-8929-6D0CBF0F0F8E_4_5005_c.jpeg" />
       <div class="caption">
