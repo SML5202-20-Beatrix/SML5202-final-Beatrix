@@ -23,7 +23,7 @@
 <td>
     <p> <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/F8F3FAFE-2AFC-4F1E-8929-6D0CBF0F0F8E_4_5005_c.jpeg" />
       <div class="caption">
           <p>A = A like in f<strong>a</strong>r</p>
         </div>
@@ -132,7 +132,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/9D3BE263-19DE-43A5-B09A-F894359B3DAE_4_5005_c.jpeg" />
       <div class="caption">
           <p>К = K like in moc<strong>k</strong></p>
         </div>
