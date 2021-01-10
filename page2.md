@@ -146,7 +146,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/1BBB65AD-29CB-4275-8CF3-FCB55B15FB88_4_5005_c.jpeg" />
       <div class="caption">
           <p>Т = T like in <strong>t</strong>oas<strong>t</strong></p>
         </div>
@@ -160,7 +160,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/8E1B86C7-40F5-43DB-9991-BF1F69D32457_4_5005_c.jpeg " />
       <div class="caption">
           <p>Н = N like in <strong>n</strong>ame</p>
         </div>
@@ -174,7 +174,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/3FD2A1A6-EA44-421B-9274-003B75A09F0A_4_5005_c.jpeg" />
       <div class="caption">
           <p>С = S like in <strong>s</strong>ea</p>
         </div>
@@ -188,7 +188,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/348A9BF5-90CF-4D78-AE35-89413B45A381_4_5005_c.jpeg" />
       <div class="caption">
           <p>Л = L like in <strong>l</strong>emon</p>
         </div>
@@ -202,7 +202,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/2444962A-E0AF-43BC-9697-1CCD8B3F3F30_4_5005_c.jpeg" />
       <div class="caption">
           <p>Р = R like in <strong>r</strong>oll</p>
         </div>
@@ -216,7 +216,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/1383D793-501F-4D88-9D81-CDE0A6D96048_4_5005_c.jpeg" />
       <div class="caption">
           <p>В = V like in <strong>v</strong>an</p>
         </div>
@@ -244,7 +244,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/AFA0AB35-9F62-4847-A68E-67AD5D1FF9B1_4_5005_c.jpeg" />
       <div class="caption">
           <p>П = P like in <strong>p</strong>ull</p>
         </div>
@@ -258,7 +258,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/A8AE903F-8F97-4F66-986C-B29814C9A8E0_4_5005_c.jpeg" />
       <div class="caption">
           <p>Д = D like in <strong>d</strong>og</p>
         </div>
@@ -272,7 +272,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/94239DCB-60DD-477B-9558-3D20327A8291_4_5005_c.jpeg" />
       <div class="caption">
           <p>Г = G like in <strong>g</strong>oose</p>
         </div>
@@ -286,7 +286,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/864AA21B-4719-4285-8D7D-BFE2128B3707_4_5005_c.jpeg" />
       <div class="caption">
           <p>Ф = F like in <strong>f</strong>ace</p>
         </div>
@@ -300,7 +300,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/48CFA8D9-99B4-4082-B71A-957472321541_4_5005_c.jpeg" />
       <div class="caption">
           <p>Х = CH like in lo<strong>ch</strong></p>
         </div>
@@ -314,7 +314,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/7ED33448-6577-4CAA-BED0-DCD603850283_4_5005_c.jpeg" />
       <div class="caption">
           <p>З = Z like in <strong>z</strong>oo</p>
         </div>
@@ -328,7 +328,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/9C829353-D0E6-4602-9AD9-9DD5DD0814A0_4_5005_c.jpeg" />
       <div class="caption">
           <p>Ж = ZH like in clo<strong>su</strong>re</p>
         </div>
@@ -342,7 +342,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/45245DA6-E1A4-4BF0-ABA1-5F3291BE62A5_4_5005_c.jpeg" />
       <div class="caption">
           <p>Щ = SCH like in <strong>sh</strong>oe/p>
         </div>
@@ -356,7 +356,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/25E099F8-7EC6-4DB6-824E-F050AF93311B_4_5005_c.jpeg" />
       <div class="caption">
           <p>Ч = CH like in <strong>ch</strong>urch</p>
         </div>
@@ -370,7 +370,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/0EB8024A-45E5-42CE-A2D4-76C7A8A9D23C_4_5005_c.jpeg" />
       <div class="caption">
           <p>Ц = TS like in ha<strong>ts</strong></p>
         </div>
@@ -384,7 +384,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/A157DC5F-B726-4EC4-B55E-4F043330FF5C_4_5005_c.jpeg" />
       <div class="caption">
           <p>Й = Y like in <strong>y</strong>oghurt</p>
         </div>
