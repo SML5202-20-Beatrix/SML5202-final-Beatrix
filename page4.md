@@ -1,5 +1,7 @@
 <h1>Vocabulary</h1>
-
+<p></p>
+<p></p>
+<p>Here is all the vocabulary you will encounter in your early stages of Russian. Be sure to memorise it and use the flashcards at the bottom of the page to help!</p>
 <!-- COMMENT: To add items to the columns, simply copy an existing item with its <p></p> tags. For example <p>Актёр - actor</p>, and then paste it before the </td> tag of the section. There are some empty <p></p> tags for you to use as well. These are marked: <p>&nbsp;</p>, so you can insert items in place of the &nbsp; part. END OF COMMENT -->
 
 <!-- THIS IS THE FIRST TABLE -->
