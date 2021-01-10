@@ -113,6 +113,9 @@
 </td>
 
 <td>
+   
+ <div class="row">
+  <div class="column" style="background-color:#fff;">
     <p> <div class="row">
     <div class="col-sm-5">
       <img src="images/9196D962-BE97-4636-9E04-20C9B029A2D7_4_5005_c.jpeg" />
@@ -241,7 +244,8 @@
         </div>
     </div>
   </div>
- 
+ </div>
+  <div class="column" style="background-color:#fff;">
   <audio controls>
   <source src="audio-file/Б.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
@@ -357,7 +361,7 @@
     <div class="col-sm-5">
       <img src="images/45245DA6-E1A4-4BF0-ABA1-5F3291BE62A5_4_5005_c.jpeg" />
       <div class="caption">
-          <p>Щ = SCH like in <strong>sh</strong>oe/p>
+          <p>Щ = SCH like in <strong>sh</strong>oe</p>
         </div>
     </div>
   </div>
@@ -462,6 +466,8 @@
       <img src="images/06E16F3F-E5E9-4B17-B671-FEABE6A8615C_4_5005_c.jpeg" />
       <div class="caption">
           <p>Ы = close to ill</p>
+           </div>
+</div>
         </div>
     </div>
   </div>
