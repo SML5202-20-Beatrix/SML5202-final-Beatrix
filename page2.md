@@ -110,15 +110,8 @@
   <source src="audio-file/Э.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio></p>
-
-
 </td>
 
-&nbsp;
-&nbsp;
-&nbsp;
-
-&nbsp;
 <td>
     <p> <div class="row">
     <div class="col-sm-5">
@@ -476,14 +469,11 @@
   <audio controls>
   <source src="audio-file/Ы.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
-</audio>
-
-</p>
+</audio></p>
 </td>
 
 <td>
-   
-<p><div class="row">
+   <p><div class="row">
     <div class="col-sm-5">
       <div class="caption">
           <p>An unstressed <strong>о</strong> becomes <strong>а</strong></p>
