@@ -1,8 +1,11 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-  <h2> Introduction</h2>
-  
+
+<h1 style="text-align: center;">&nbsp;Welcome</h1>
+ 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
   <html>
   <head>
     <title>Center an Image using text align center</title>
@@ -20,7 +23,7 @@
 </html>
   
   
-<h1 style="text-align: center;">&nbsp;Welcome</h1>
+
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
