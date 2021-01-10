@@ -118,7 +118,7 @@
 <td>
     <p> <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/9196D962-BE97-4636-9E04-20C9B029A2D7_4_5005_c.jpeg" />
       <div class="caption">
           <p>М = M like in <strong>m</strong>ilk</p>
         </div>
