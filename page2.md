@@ -287,15 +287,14 @@
         </div>
     </div>
   </div>
- </td>
-
-<td>
   <audio controls>
   <source src="audio-file/Г.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
 <p>&nbsp;</p>
+</td>
 
+<td>
 <div class="row">
     <div class="col-sm-5">
       <img src="images/864AA21B-4719-4285-8D7D-BFE2128B3707_4_5005_c.jpeg" />
@@ -474,6 +473,7 @@
 </audio> </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
 </td>
 
 <td>
