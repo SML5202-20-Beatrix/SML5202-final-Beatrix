@@ -1,4 +1,7 @@
 <h1>Grammar Tables</h1>
+<p></p>
+<p></p>
+<p>Here are all the different declensions, endings and agreements found in Russian. Use these tables as a resource when working or to memorise!</p>
 &nbsp;
 &nbsp;
 &nbsp;
