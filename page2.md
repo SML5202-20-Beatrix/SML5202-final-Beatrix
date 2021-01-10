@@ -411,7 +411,7 @@
 
 <div class="row">
     <div class="col-sm-5">
-      <img src="images/B159A824-F405-42CA-8B14-E2D81E110C21_4_5005_c.jpeg" />
+      <img src="images/41B8335A-0223-495B-BF60-8E85C525AD34_4_5005_c.jpeg" />
       <div class="caption">
           <p>Ё = YO like in <strong>yo</strong>rk</p>
         </div>
@@ -480,7 +480,7 @@
   </div>
  
   <audio controls>
-  <source src="audio-file/Е/Я-ye.m4a" type="audio/mpeg">
+  <source src="audio-file/Е:Я-ye.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
 
@@ -495,7 +495,21 @@
   </div>
  
   <audio controls>
-  <source src="audio-file/Е/Я-ee.m4a" type="audio/mpeg">
+  <source src="audio-file/Е:Я-ee.m4a" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
+<div class="row">
+    <div class="col-sm-5">
+      <div class="caption">
+          <p>Some consonants have voice and voiceless pairs</p>
+          <p> Б becomes <strong>П</strong>, В becomes <strong>Ф</strong>, Г becomes <strong>К</strong>, Д becomes <strong>Т</strong>, З becomes <strong>С</strong> and Ж becomes <strong>Ш</strong>
+        </div>
+    </div>
+  </div>
+ 
+  <audio controls>
+  <source src="audio-file/Voiced:Voiceless.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio></p>
 </td>
@@ -503,8 +517,91 @@
 
 <table></table>
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
 
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; 
+}
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>Practice your pronunciation:</h2>
+
+<div class="row">
+  <div class="column" style="background-color:#fff;">
+    <h2></h2>
+    <p><ul>
+<li>До́м</li>
+<li>Сто́л</li>
+<li>Са́д</li>
+<li>Ча́й</li>
+<li>Во́дка</li>
+<li>Сви́тер</li>
+<li>Ко́фе</li>
+<li>Кри́зисс</li>
+<li>Кни́га</li>
+<li>Вино́</li>
+<li>Язы́к</li>
+<li>Футбо́л</li>
+<li>Гара́ж</li>
+<li>Журна́л</li>
+<li>У́лица</li>
+<li>Мужчи́на</li>
+<li>Компью́тер</li>
+<li>Друг</li>
+<li>Газе́та</li>
+<li>Профе́ссор</li>
+<li>Телефо́н</li>
+</ul></p>
+  </div>
+  <div class="column" style="background-color:#fff;">
+    <h2></h2>
+    <p><ul>
+<li>Ка́мера</li>
+<li>Ди́ск</li>
+<li>Па́рк</li>
+<li>Сто́п</li>
+<li>Пи́во</li>
+<li>Мы́шка</li>
+<li>О́фис</li>
+<li>А́дрес</li>
+<li>Го́род</li>
+<li>Партн́ёр</li>
+<li>Кафе́</li>
+<li>Сала́т</li>
+<li>Война́</li>
+<li>Теа́тр</li>
+<li>О́пера</li>
+<li>Магази́н</li>
+<li>Колле́га</li>
+<li>Маши́на</li>
+<li>Кварти́ра</li>
+<li>Прoграмми́ст</li>
+<li>Президе́нт</li>
+</ul></p>
+  </div>
+</div>
+
+</body>
+</html>
 
 <p></p>
 
