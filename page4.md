@@ -435,6 +435,8 @@
 
 <table></table>
 
+[color=navy]
+<!DOCTYPE html>
 <html  lang="en">
 <head>
 
@@ -509,16 +511,55 @@ function makeClickHandler(c) {
 </head>
 <body>
 
-
 <div id="keyboard">
-<div><input type="button" value="Й" /> <input type="button" value="Ц" /> <input type="button" value="У" /> <input type="button" value="К" /> <input type="button" value="Е" /> <input type="button" value="Н" /> <input type="button" value="Г" /> <input type="button" value="Ш" /> <input type="button" value="Щ" /> <input type="button" value="З" /><input type="button" value="Х" /><input type="button" value="Ё" /></div>
-<div><input type="button" value="Ф" /> <input type="button" value="Ы" /> <input type="button" value="В" /> <input type="button" value="А" /> <input type="button" value="П" /> <input type="button" value="О" /> <input type="button" value="Л" /> <input type="button" value="Д" /> <input type="button" value="Ж" /><input type="button" value="Э" /></div>
-<div><input type="button" value="Я" /> <input type="button" value="Ч" /> <input type="button" value="С" /> <input type="button" value="М" /> <input type="button" value="И" /> <input type="button" value="Т" /> <input type="button" value="Ь" /><input type="button" value="Б" /><input type="button" value="Ю" /></div>
-<div><input id="space" type="button" value=" " /> <input id="clear" type="reset" value="clear" /></div>
+
+<div>
+  <input type="button" value="Й" />
+  <input type="button" value="Ц" /> 
+  <input type="button" value="У" />
+  <input type="button" value="К" />
+  <input type="button" value="Е" /> 
+  <input type="button" value="Н" /> 
+  <input type="button" value="Г" /> 
+  <input type="button" value="Ш" />
+  <input type="button" value="Щ" /> 
+  <input type="button" value="З" />
+  <input type="button" value="Х" />
+  <input type="button" value="Ё" />
+  </div>
+<div>
+  <input type="button" value="Ф" />
+  <input type="button" value="Ы" />
+  <input type="button" value="В" /> 
+  <input type="button" value="А" /> 
+  <input type="button" value="П" />
+  <input type="button" value="О" />
+  <input type="button" value="Л" />
+  <input type="button" value="Д" />
+  <input type="button" value="Ж" />
+  <input type="button" value="Э" />
+  </div>
+<div>
+  <input type="button" value="Я" />
+  <input type="button" value="Ч" />
+  <input type="button" value="С" />
+  <input type="button" value="М" />
+  <input type="button" value="И" />
+  <input type="button" value="Т" />
+  <input type="button" value="Ь" />
+  <input type="button" value="Б" />
+  <input type="button" value="Ю" />
+  </div><div>
+ <input id="space" type="button" value=" ">
+ <input id="clear" type="reset" value="clear">
+</div><div>
+<label>Track Search</label> - <input id="text" type="text" readonly="readonly">
 </div>
-<!-- end #keyboard -->
+
+</div><!-- end #keyboard -->
+
 </body>
-</html>
+</html>[/color]
 
 <p>&nbsp;</p>
 
