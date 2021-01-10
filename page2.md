@@ -12,7 +12,8 @@
 <tr>
 <th><h3>Vowels</h3></th>
 <th><h3>Consonants</h3></th>
-<th><h3>Unstressed and Devoiced Phonetics</h3></th>
+<th><h3> </h3></th>
+ <th><h3>Unstressed and Devoiced Phonetics</h3></th>
 </tr>
 </thead>
 <tbody>
@@ -113,9 +114,6 @@
 </td>
 
 <td>
-   
- <div class="row">
-  <div class="column" style="background-color:#fff;">
     <p> <div class="row">
     <div class="col-sm-5">
       <img src="images/9196D962-BE97-4636-9E04-20C9B029A2D7_4_5005_c.jpeg" />
@@ -244,8 +242,7 @@
         </div>
     </div>
   </div>
- </div>
-  <div class="column" style="background-color:#fff;">
+
   <audio controls>
   <source src="audio-file/Б.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
@@ -290,7 +287,9 @@
         </div>
     </div>
   </div>
- 
+ </td>
+
+<td>
   <audio controls>
   <source src="audio-file/Г.m4a" type="audio/mpeg">
   Your browser does not support the audio tag.
@@ -466,8 +465,6 @@
       <img src="images/06E16F3F-E5E9-4B17-B671-FEABE6A8615C_4_5005_c.jpeg" />
       <div class="caption">
           <p>Ы = close to ill</p>
-           </div>
-</div>
         </div>
     </div>
   </div>
